@@ -1,0 +1,1668 @@
+Parts from [[Armored Core: Nexus]], [[Armored Core: Nine Breaker]] and [[Armored Core: Last Raven]].
+==Head==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!AP!!Weight(Tuned)!!Energy Drain!!Def Shell(Tuned)!!Def Energy(Tuned)!!Cooling(Tuned)!!Stability!!Computer Type!!Auto-Map!!Night Vision!!Bio-Sensor!!Vs ECM(Tuned)!!Radar Function!!- Radar Function!!- Radar Range!!- Scanning Interval!!- Missile Sensor!!- Bio-Sensor!!Unlock!!Notes
+|-
+! [[CR-H69S]]
+! Crest||-||809||145(0)||185||155(0)||140(0)||274(0)||346||Standard||None||None||Provided||173(0)||None||-||-||-||-||-||Starting Part|| style="text-align: left" |First generation head part. Low performance, but lightweight.
+|-
+! [[CR-YH70S2]]
+! Crest||35500c||909||197(175)||164||172(192)||170(192)||361(427)||351||Standard||Provided||None||None||270(372)||None||-||-||-||-||-||Reward from [[Guard Freight Train]] (REV)/Complete Defense: Single trainer (NB)|| style="text-align: left" |Improved version of the H69S. Basic performance greatly enhanced.
+|-
+! [[H01-WASP]]
+! Mirage||40000c||925||228(201)||204||184(202)||155(179)||325(396)||305||Standard||None||Provided||None||209(322)||None||-||-||-||-||-||Shop|| style="text-align: left" |First generation model. Well-designed and still popular.
+|-
+! [[CR-H72S3]]
+! Crest||41700c||835||179(160)||280||165(186)||173(194)||380(443)||351||Detailed||Provided||None||None||251(357)||None||-||-||-||-||-||Shop|| style="text-align: left" |Second generation model. Excellent cooling performance.
+|-
+! [[CR-H73E]]
+! Crest||49500c||634||184(157)||444||146(169)||150(168)||267(347)||392||Special||Provided||None||None||375(459)||Provided||-||-||-||-||-||Shop|| style="text-align: left" |High performance model. Radar equipped and good VS ECM quality.
+|-
+! [[H02-WASP2]]
+! Mirage||52000c||817||262(230)||338||185(203)||148(173)||358(424)||324||Standard||None||Provided||Provided||332(423)||Provided||-||-||-||-||-||Shop|| style="text-align: left" |Second generation WASP model. Radar function added.
+|-
+! [[CR-H81S4]]
+! Crest||54500c||890||241(212)||188||188(206)||188(207)||411(469)||360||Detailed||None||None||None||230(339)||None||-||-||-||-||-||Shop|| style="text-align: left" |H72S3 successor. Improved energy consumption and defense.
+|-
+! [[H03-BEETLE]]
+! Mirage||62000c||1034||468(405)||180||251(258)||159(182)||433(488)||298||Standard||None||None||None||194(310)||None||-||-||-||-||-||Shop|| style="text-align: left" |Heavyweight part stressing improved armor reinforcement.
+|-
+! [[CR-H84E2]]
+! Crest||60000c||680||228(193)||328||160(181)||136(157)||400(460)||396||Special||Provided||Provided||Provided||368(453)||Provided||Provided||410||39||Provided||Provided||Shop|| style="text-align: left" |Remodeled H73E design. Combat performance is much improved.
+|-
+! [[H04-CICADA]]
+! Mirage||60000c||664||101(92)||199||147(170)||128(150)||314(387)||358||Detailed||Provided||Provided||Provided||286(386)||None||-||-||-||-||Shop|| style="text-align: left" |Lightweight design with a wide selection of built-in functions.
+|-
+! [[CR-YH85SR]]
+! Crest||64800c||924||315(275)||421||190(206)||188(205)||313(390)||389||Special||Provided||Provided||Provided||332(424)||Provided||||340||50||None||None||Reward from [[Destroy Resistance Group]](NX)/Complete the No Lock-on + Radar trainer (NB)|| style="text-align: left" |Multi-purpose design sporting a variety of built-in functions.
+|-
+! [[H05-HORNET]]
+! Mirage||67000c||900||387(336)||462||179(197)||183(201)||434(495)||358||Detailed||Provided||Provided||Provided||345(434)||Provided||||400||34||None||None||Shop|| style="text-align: left" |Notes: Redesigned third generation model. Offers solid performance.
+|-
+! [[YH06-LADYB]]
+! Mirage||72000c||986||435(377)||248||228(239)||181(201)||461(512)||315||Standard||None||None||None||330(422)||None||-||-||-||-||Reward from [[Destroy Security Net]](NX)/Complete Vertical Move trainer (NB)|| style="text-align: left" |Redisnged BETTLE model. Improved combat performance.
+|-
+! [[CR-H97XS-EYE]]
+! Crest||73300c||789||189(168)||517||168(188)||185(202)||333(408)||412||Special||None||Provided||None||354(441)||Provided||420||43||None||None||Do well in Crest&Arena alike(NX)/Shop|| style="text-align: left" |Fourth generation Crest design. High quality and lightweight.
+|-
+! [[H07-CRICKET]]
+! Mirage||77000c||660||141(122)||479||158(179)||212(220)||266(346)||379||Detailed||None||None||None||403(482)||Provided||390||64||None||None||Shop|| style="text-align: left" |Part design stressing energy defense and VS ECM performance.
+|-
+! [[YH08-MANTIS]]
+! Mirage||90000c||777||222(185)||440||177(195)||177(195)||405(464)||328||Standard||None||None||Provided||362(448)||Provided||710||21||None||Provided||Reward from [[Escort Phantasma Transport]](NX)/Complete the Run + Defense trainer(NB)|| style="text-align: left" |Scouting model with a built-in high performance radar.
+|-
+! [[H09-SPIDER]]
+! Mirage||92000c||875||343(299)||304||171(190)||260(269)||377(440)||364||Detailed||Provided||Provided||Provided||269(371)||Provided||260||71||Provided||None||Rank 1 in the arena(NX)/Shop|| style="text-align: left" |Design housing multiple built-in functions. Heavy equip weight.
+|-
+! [[CR-H95EE]]
+! Crest||95800c||559||143(124)||103||103(133)||190(258)||258(339)||444||Special||Provided||Provided||Provided||417(493)||Provided||550||16||Provided||Provided||Hidden in "Destroy Mine Power Systems"(NX)/Complete Horizontal Move trainer(NB)|| style="text-align: left" |Armor sacrificed in favor of high quality electronic functions.
+|-
+! [[H10-CICADA2]]
+! Mirage||100000c||752||230(194)||340||160(181)||188(200)||419(476)||374||Detailed||Provided||Provided||Provided||428(503)||Provided||530||42||Provided||Provided||Shop|| style="text-align: left" |Redesigned CICADA model. Improved VS ECM performance.
+|-
+! [[CR-H98XS-EYE2]]
+! Crest||103300c||811||330(288)||590||192(208)||184(201)||447(506)||387||Special||Provided||Provided||None||318(412)||Provided||350||55||None||None||Shop|| style="text-align: left" |Armor reinforced version of the H97XS. Solid combat performance.
+|-
+! [[H11-QUEEN]]
+! Mirage||120000c||890||260(228)||414||181(199)||179(197)||429(491)||400||Special||Provided||Provided||None||374(458)||Provided||270||34||None||None||Shop|| style="text-align: left" |Fourth generation Mirage design. Well-balanced overall.
+|}
+===Introduced in Armored Core: Nine Breaker===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!AP!!Weight(Tuned)!!Energy Drain!!Def Shell(Tuned)!!Def Energy(Tuned)!!Cooling(Tuned)!!Stability!!Computer Type!!Auto-Map!!Night Vision!!Bio-Sensor!!Vs ECM(Tuned)!!Radar Function!!- Radar Function!!- Radar Range!!- Scanning Interval!!- Missile Sensor!!- Bio-Sensor!!Unlock!!Notes
+|-
+! [[YH12-MAYFLY]]
+! Mirage||-||666||199(159)||383||133(149)||139(156)||432(509)||399||Special||None||Provided||Provided||409(501)||Provided||790||23||None||None||Get all 150 Gold Ranks. (NB)|| style="text-align: left" |Well-rounded concept model with enhanced radar function.
+|-
+! [[CR-H05XS-EYE3]]
+! Crest||-||820||202(162)||399||201(217)||191(208)||301(378)||422||Special||Provided||Provided||Provided||365(457)||Provided||290||31||None||None||Get to Rank 1 in the Arena (NB)|| style="text-align: left" |Substantially improved third generation EYE series model.
+|}
+===Introduced in Armored Core: Last Raven===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!AP!!Weight(Tuned)!!Energy Drain!!Def Shell(Tuned)!!Def Energy(Tuned)!!Cooling(Tuned)!!Stability!!Computer Type!!Auto-Map!!Night Vision!!Bio-Sensor!!Vs ECM(Tuned)!!Radar Function!!- Radar Function!!- Radar Range!!- Scanning Interval!!- Missile Sensor!!- Bio-Sensor!!Unlock!!Notes
+|-
+! [[CR-H06SR2]]
+! Crest||100000c||828||362(315)||603||204(218)||231(241)||432(487)||404||Special||Provided||Provided||Provided||234(349)||Provided||362||61||None||None||Reward from [[Destroy The Pulverizer]]|| style="text-align: left" |New part design incorporating Mirage's latest technology.
+|-
+! [[YH13-LONGHORN]]
+! Mirage||82500c||997||514(444)||298||229(240)||195(211)||392(453)||330||Detailed||Provided||Provided||Provided||223(340)||Provided||220||68||Provided||None||Hidden in [[Destroy Power Generators]]|| style="text-align: left" |Experimental model with multiple built in functions and high AP.
+|-
+! [[YH14-STING]]
+! Mirage||120000c||791||241(212)||508||172(191)||172(207)||505(549)||369||Special||Provided||Provided||Provided||388(480)||Provided||766||56||None||Provided||Reward from [[Destroy Transport Convoy]]|| style="text-align: left" |Part offering superior radar and information processing
+featuers.
+|-
+! [[YH15-DRONE]]
+! Mirage||89000c||906||293(257)||390||173(192)||196(212)||394(455)||381||Detailed||Provided||Provided||Provided||433(518)||Provided||481||42||Provided||Provided||Rewarded from [[Eliminate The Enemy AC]]|| style="text-align: left" |Trail manufactured design with excellent VS ECM performance.
+|-
+! [[CR-H06XS-EYE4]]
+! Crest||64000c||833||199(177)||596||188(205)||181(199)||491(537)||365||Special||Provided||Provided||Provided||328(429)||Provided||360||55||None||None||Reward from [[Destroy Transport Convoy]]|| style="text-align: left" |Lastest model in Crest's "EYE" series line of head parts.
+|}
+=== Introduced in Armored Core: Last Raven Portable ===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!AP!!Weight(Tuned)!!Energy Drain!!Def Shell(Tuned)!!Def Energy(Tuned)!!Cooling(Tuned)!!Stability!!Computer Type!!Auto-Map!!Night Vision!!Bio-Sensor!!Vs ECM(Tuned)!!Radar Function!!- Radar Function!!- Radar Range!!- Scanning Interval!!- Missile Sensor!!- Bio-Sensor!!Unlock!!Notes
+|-
+! [[YH19-PILLBUG]]
+! Mirage||-||966||294(-)||328||151(-)||258(-)||242(-)||362||Standard||None||None||Provided||372(-)||None||-||-||-||-||Hidden in [[Investigate Enemy Activity]]|| style="text-align: left" |Part protoype improved for utmost energy defense.
+|-
+! [[H20-FIREFLY]]
+! Mirage||-||920||333(-)||306||208(-)||186(-)||121(-)||403||Standard||None||Provided||Provided||400(-)||Provided||290||42||None||None||Defeat [[R (AC Fool)]] in the EX Arena|| style="text-align: left" |Innovative part using Kisaragi components for high performance..
+|}
+
+==Core==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!AP!!Weight(Tuned)!!EnergyDrain!!DefShell(Tuned)!!DefEnergy(Tuned)!!Max Arm Weight(Tuned)!!Cooling(Tuned)!!Heat Resistance!!Optional Slots!!VS MG Response!!Hanger Unit!!Core Type!!EO Ammo Type!!EO Attack Power!!EO Ammo!!EO Attack Heat!!EO Range!!EO Firing Interval!!EO Usage Drain!!EO Ammo Price!!OB Power!!OB Energy Drain!!OB Discharge Heat!!Unlock!!Notes
+|-
+! [[CR-C69U]]
+! Crest||-||2296||874(-)||1094||450(-)||449(-)||3441(-)||890(-)||679||17||59||Provided||Standard||-||-||-||-||-||-||Shop|| style="text-align: left" |First generation model. Weapon storage capability provided.
+|-
+! [[C01-GAEA]]
+! Mirage||62200c||2790||1240(1166)||1371||527(548)||445(470)||3528(3792)||1035(1193)||627||18||0||None||EO||Energy||462||36||3535||300||115||2800||0c||-||-||-||Shop|| style="text-align: left" |First generation Mirage model with built-in energy EO.
+|-
+! [[CR-C75U2]]
+! Crest||67500||2808||1035(976)||925||635(554)||411(438)||3408(3667)||1277(1441)||805||16||55||Provided||Standard||-||-||-||-||-||-||Shop|| style="text-align: left" |Excellently balanced core model with built-in weapon storage.
+|-
+! [[RAKAN]]
+! Kisaragi||87770c||2135||833(800)||1091||380(408)||453(476)||3079(3355)||1040(1228)||671||19||0||None||OB||-||-||-||-||-||-||-||-||25740||7890||5808||Shop|| style="text-align: left" |Kisaragi core design featuring a high power OB function.
+|-
+! [[C04-ATLAS]]
+! Mirage||128000c||2750||1182(1114)||1205||494(514)||412(438)||3388(3631)||1243(1403)||726||16||0||Provided||OB||-||-||-||-||-||-||-||-||23800||8130||5245||Shop|| style="text-align: left" |Core design that includes both OB and weapon storage functions.
+|-
+! [[CR-C89E]]
+! Crest||139300c||2877||1283(1205)||1082||562(580)||419(446)||3448(3720)||1081(1231)||649||17||32||None||EO||Solid||225||70||2730||320||75||0||22c||-||-||-||Shop|| style="text-align: left" |Core model equipped with a solid round EO function.
+|-
+! [[CR-C90U3]]
+! Crest||169900c||2764||1116(1048)||1124||557(429)||429(455)||3668(3901)||1156(1335)||736||18||55||Provided||Standard||-||-||-||-||-||-||Shop|| style="text-align: left" |Fourth generation basic core design. Weapon storage provided.
+|-
+! [[C02-URANUS]]
+! Mirage||70000c||2346||1005(955)||1342||433(460)||472(495)||3027(3339)||911(1089)||605||20||0||None||EO||Energy||80||100||506||370||884||884||0c||-||-||-||Shop|| style="text-align: left" |Second generation core design. Energy-based EO function.
+|-
+! [[C03-HELIOS]]
+! Mirage||80000c||2067||945(901)||1344||369(398)||430(454)||2920(3213)||976(1173)||732||18||0||None||OB||-||-||-||-||-||-||-||-||27990||9770||5330||Shop|| style="text-align: left" |Core model specially designed for highly mobile combat.
+|-
+! [[CR-C84O/UL]]
+! Crest||131000c||2099||989(940)||1183||408(434)||416(441)||3134(3404)||1014(1206)||660||18||48||Provided||OB||-||-||-||-||-||-||-||-||27170||8990||5467||Shop|| style="text-align: left" |Lightweight OB model with built-in weapon storage.
+|-
+! [[YC07-CRONUS]]
+! Mirage||160000c||2490||760(730)||1191||445(470)||642(486)||3305(3675)||1144(1325)||719||19||0||Provided||Standard||-||-||-||-||-||-||-||-||-||-||-||Reward from [[Destroy Resistance Group]](REV)/Shop|| style="text-align: left" |Lightweight core model with weapon storage capability.
+|-
+! [[CR-C98E2]]
+! Crest||188000c||2455||1110(1049)||1221||445(471)||464(488)||3072(3379)||968(1137)||638||19||62||None||EO||Solid||130||150||960||355||17||0||15c||-||-||-||Shop|| style="text-align: left" |State-of-the-art design based on the C89E core model.
+|-
+! [[CR-C77O/U]]
+! Crest||85000c||2900||1321(1239)||923||570(584)||399(426)||3663(3877)||1417(1554)||754||13||43||Provided||OB||-||-||-||-||-||-||-||-||20500||7570||5115||Shop|| style="text-align: left" |Heavily armored, multi-function core design.
+|-
+! [[CR-C83UA]]
+! Crest||99000c||3125||1245(1164)||786||641(652)||429(455)||4079(4271)||1501(1642)||817||15||48||Provided||Standard||-||-||-||-||-||-||Shop|| style="text-align: left" |Heavily armored core model with excellent AP and defense.
+|-
+! [[C05-SELENA]]
+! Mirage||145000c||3096||1513(1412)||935||637(651)||405(433)||4020(4237)||1291(1406)||693||16||0||None||EO||Energy||1090||12||6870||360||240||5450||0||-||-||-||Shop|| style="text-align: left" |Third generation model equipped with a high power EO function.
+|-
+! [[C06-EOS]]
+! Mirage||150000c||3003||1404(1314)||878||585(598)||385(413)||3751(3956)||1485(1613)||803||15||0||None||OB||-||-||-||-||-||-||-||-||29110||10280||6125||Shop|| style="text-align: left" |Heavy armor core type. Equips a high power OB function.
+|}
+===Introduced in Armored Core: Last Raven===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!AP!!Weight(Tuned)!!EnergyDrain!!DefShell(Tuned)!!DefEnergy(Tuned)!!Max Arm Weight(Tuned Max Arm)!!Cooling(Tuned Cooling)!!Heat Resistance!!Optional Slots!!VS MG Response!!Hanger Unit!!Core Type!!EO Ammo Type!!EO Attack Power!!EO Ammo!!EO Attack Heat!!EO Range!!EO Firing Interval!!EO Usage Drain!!OB Power!!OB Energy Drain!!OB Acceleration||OB Discharge Heat!!Unlock!!Notes
+|-
+! [[CR-C06U5]]
+! Crest||170000c||2899||1231(1158)||1482||569(585)||446(471)||3097(3387)||1021(1198)||720||17||65||Provided||Standard||-||-||-||-||-||-||-||-||-||-||-||-||Reward in [[Shutdown Internecine]]|| style="text-align: left" |Core model with high DEF ratings and weapon storage capability.
+|-
+! [[CR-YC03U4]]
+! Crest||122000c||2941||1109(1048)||1368||542(560)||430(456)||3448(3703)||1174(1328)||741||18||62||Provided||Standard||-||-||-||-||-||-||-||-||-||-||-||-||Reward from [[Destroy The Internecine]]|| style="text-align: left" |End result of Crest's redesign of the CR-C06U5 core model.
+|-
+! [[CR-YC99UL]]
+! Crest||88000c||2560||809(778)||1092||463(487)||444(469)||3105(3395)||1201(1351)||681||18||40||Provided||Standard||-||-||-||-||-||-||-||-||-||-||-||-||Reward from [[Destroy The Control Towers]]|| style="text-align: left" |Prototype model with a low equip weight and respectable stats.
+|-
+! [[CR-YC01O/UL2]]
+! Crest||89000c||2291||897(857)||1294||421(448)||397(425)||3228(3505)||1101(1266)||706||19||50||Provided||OB||-||-||-||-||-||-||-||-||25030||8042||521||5598||Kill Daemon/Lucifer (Rank 1) in the Arena|| style="text-align: left" |Core part specifically designed to reduce OB energy consumption.
+|-
+! [[YC08-ICURUS]]
+! Mirage||110000c||2297||1002(952)||1404||419(446)||456(480)||3009(3308)||913(1106)||622||20||-||None||OB||-||-||-||-||-||-||-||-||26880||10320||536||5510||Reward from [[Destroy Transport Convoy]]|| style="text-align: left" |Prototype OB model designed to balance DEF and mobility stats.
+|}
+=== Introduced in Armored Core: Last Raven Portable ===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!AP!!Weight(Tuned)!!EnergyDrain!!DefShell(Tuned)!!DefEnergy(Tuned)!!Max Arm Weight(Tuned Max Arm)!!Cooling(Tuned Cooling)!!Heat Resistance!!Optional Slots!!VS MG Response!!Hanger Unit!!Core Type!!EO Ammo Type!!EO Attack Power!!EO Ammo!!EO Attack Heat!!EO Range!!EO Firing Interval!!EO Usage Drain!!OB Power!!OB Energy Drain!!OB Acceleration!!OB Discharge Heat!!Unlock!!Notes
+|-
+! [[YC09-APOLLON]]
+! Mirage||-||2870||1116(-)||1283||488(-)||452(-)||3170(-)||1180(-)||698||16||None||None||OB||-||-||-||-||-||-||-||-||26400||8220||508||5525||Achieve S Rank in all 22:00 missions|| style="text-align: left" |Core with upgraded performance and improved over boost.
+|}
+
+==Arms==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!AP!!Weight(Tuned)!!Energy Drain!!Def Shell(Tuned)!!Def Energy(Tuned)!!Cooling(Tuned)!!Blade Aptitude!!Aiming Accuracy(Tuned)!!Aim Adjust Time!!Attack Power!!Discharge Heat!!Attack Heat!!Range Rating!!Energy Wave Attack Power!!Energy Wave Discharge Heat!!Energy Wave Attack Heat!!Energy Wave Range!!Energy Wave Usage Drain!!Ammo Type!!Weapon Lock!!Attack Power!!Ammo!!Attack Heat!!Range!!Maximum Lock!!Firing Interval!!Ammo Price!!Usage Drain!!Unlock!!Notes
+|-
+! [[CR-A69S]]
+| Crest||-||1794||1290(-)||915||312(-)||267(-)||611(-)||84||251(-)||10||-||-||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |First generation Crest part design. Basic, low-end model.
+|-
+! [[CR-A71S2]]
+| Crest||39500c||1711||1149(1097)||1003||305(333)||281(311)||790(952)||95||245(257)||8||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Second generation A69S. Lighter weight and more well-rounded.
+|-
+! [[A01-GALAGO]]
+| Mirage||40000c||1810||1187(1133)||1087||321(347)||305(334)||551(753)||90||258(267)||8||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |First generation arm part manufactured by Mirage.
+|-
+! [[A03-GIBBON]]
+| Mirage||52000c||1699||1099(1049)||1184||311(338)||459(505)||503(702)||95||256(267)||9||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Arm part design reinforced to withstand energy-based attacks.
+|-
+! [[CR-A72F]]
+| Crest||43800||1732||1152(1089)||905||445(456)||248(280)||803(952)||95||264(273)||8||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Combat-ready design with good shell defense and cooling.
+|-
+! [[CR-A80S3]]
+| Crest||54800c||1754||1222(1165)||998||355(389)||331(357)||708(885)||87||264(271)||8||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Third generation model which expands on the A71S2 design.
+|-
+! [[A07-LEMUR]]
+| Mirage||78000c||1847||1559(1503)||1476||492(508)||531(544)||689(859)||110||282(286)||8||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Arm part design featuring both high shell and energy defense.
+|-
+! [[A09-LEMUR2]]
+| Mirage||85000c||1721||1308(1252)||1287||454(482)||490(506)||855(1002)||109||286(289)||8||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |LEMUR successor. Lighter weight and better energy consumption.
+|-
+! [[CR-A82SL]]
+| Crest||54800c||1645||955(913)||857||276(303)||268(295)||649(831)||108||276(280)||7||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Lightweight design that maintains good overall balance.
+|-
+! [[CR-A88FG]]
+| Crest||69200c||1492||698(665)||1144||203(237)||320(342)||679(888)||113||284(288)||4||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||Reward from [[Ambush Crest HQ Force]](NX)|| style="text-align: left" |Arm part designed to be extremely lightweight and agile.
+|-
+! [[A05-LANGUR]]
+| Mirage||75000c||1550||958(913)||1167||274(302)||351(370)||704(868)||127||269(276)||7||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Designed to enhance both cooling and blade handling.
+|-
+! [[A06-GIBBON2]]
+| Mirage||75000c||1588||838(801)||1208||213(246)||428(445)||641(815)||105||254(265)||6||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Lightweight, energy defense specialization design.
+|-
+! [[A11-MACAQUE]]
+| Mirage||91000c||1682||1015(974)||1245||315(342)||399(419)||594(770)||117||281(184)||4||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Arm part model that incorporates the latest technology.
+|-
+! [[CR-A92XS]]
+| Crest||76100c||1603||845(806)||728||257(286)||237(267)||707(871)||99||279(284)||7||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Fourth generation design with low energy consumption.
+|-
+! [[CR-A94FL]]
+| Crest||87700c||1505||819(781)||1127||244(274)||302(326)||802(952)||114||285(288)||6||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Lightweight arm part based off of the A72F. Good cooling.
+|-
+! [[CR-A75A]]
+| Crest||49800c||1873||1714(1633)||1271||451(476)||405(425)||590(774)||67||247(257)||14||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Arm part modeled after the A69A. Good defense ratings.
+|-
+! [[A02-DRILL]]
+| Mirage||55000c||1990||2070(1972)||1385||555(563)||455(472)||521(711)||78||228(242)||19||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Exceptionally heavy, but with shell defense second to none.
+|-
+! [[A04-BABOON]]
+| Mirage||70000c||1957||1799(1714)||1354||517(528)||477(491)||819(972)||88||232(245)||16||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||Reward from [[Invade Warehouse]](NX)|| style="text-align: left" |Third generation design sporting well-balanced defense ratings.
+|-
+! [[CR-A89AG]]
+| Crest||82500c||1853||1630(1554)||1411||476(490)||501(513)||711(877)||102||281(285)||7||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Heavily armored design with excellent aiming accuracy.
+|-
+! [[CR-A98A2]]
+| Crest||89200c||1849||1749(1675)||1180||503(518)||463(481)||942(1065)||103||255(263)||12||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Heavy model design with reduced energy consumption.
+|-
+! [[A08-DRILL2]]
+| Mirage||88000c||1934||1934(1680)||1731||493(506)||518(529)||730(895)||110||251(261)||14||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Revamped version of the DRILL. Slightly lower defense ratings.
+|-
+! [[YA10-LORIS]]
+| Mirage||90000c||1625||1055(1014)||1355||405(425)||444(451)||788(940)||133||293(295)||7||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||Reward from [[Rescue Kidnapped Operative]](REV)/Complete Evade Missiles trainer(NB)|| style="text-align: left" |Arm part design with balanced accuracy and blade handling.
+|-
+! [[SYURA]]
+| Kisaragi||128000c||1418||1311(-)||1885||178(-)||325(-)||990(-)||-||-(-)||-||1268||1616||2150||7||700:700||2260:2260||2150:2150||242:242||2789:2789||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Blade arms enabling the use of normal and energy wave attacks.
+|-
+! [[CR-WA69MG]]
+| Crest||56000||1255||1357(-)||821||331(-)||148(-)||666(-)||-||223(-)||6||168:168||-||1058:1058||-||-||-||-||-||-||Solid||Wide & Shallow||300||385:355||1:1||7:8||27c!!0||Shop|| style="text-align: left" |Machine gun arms: variable firing rate 2/4 rounds.
+|-
+! [[CR-WA69MS]]
+| Crest||57000c||940||730(-)||1520||198(-)||172(-)||472(-)||-||-(-)||-||780:780||-||4220:4220||-||-||-||-||-||-||Solid||Standard||80||455:405||1:1||65:81||205c||0||Shop|| style="text-align: left" |Missile weapon arms: variable launch 2/4 missiles.
+|-
+! [[WA03-TAURUS]]
+| Mirage||68100||1202||1275(-)||1633||205(-)||251(-)||515(-)||-||-(-)||-||765:765||-||4515:4515||-||-||-||-||-||-||Solid||Standard||72||470:440||4:4||58:64||220c||0||Shop|| style="text-align: left" |Missile weapon arms: launch type normal/high precision.
+|-
+! [[CR-WA75MSP]]
+| Crest||118000c||1620||1774(-)||2515||211(-)||104(-)||816(-)||-||-(-)||-||6000:6000||-||26000:26000||-||-||-||-||-||-||Solid||Standard||8||290:250||1:1||235:250||3500c||0||Shop|| style="text-align: left" |Missile weapon arms (large): variable launch 2/4 missiles.
+|-
+! [[CR-WA77MS/V]]
+| Crest||84000c||1331||1514(-)||1575||268(-)||241(-)||553(-)||-||-(-)||-||780:780||-||4220:4220||-||-||-||-||-||-||Solid||Standard||60||420:600||1:1||84:84||250c||0||Shop|| style="text-align: left" |Missile weapon arms: launch type vertical/normal.
+|-
+! [[CR-WA91MSM]]
+| Crest||104000c||1155||1410(-)||2220||301(-)||244(-)||322(-)||-||-(-)||-||405:405||-||2000:2000||-||-||-||-||-||-||Solid||Standard||120||670:580||1:1||60:72||315c||0||Reward from [[Eliminate Crest AC]](NX)/Complete Sword Craft trainer(NB)|| style="text-align: left" |Missile weapon arms (micro): variable launch 6/10 missiles.
+|-
+! [[CR-WA69BZ]]
+| Crest||96300c||1610||1560(-)||1327||331(-)||112(-)||325(-)||-||-(-)||-||1400:1400||-||6120:6120||-||-||-||-||-||-||Solid||Narrow & Deep||48||390:377||1:1||72:98||250||0||Shop|| style="text-align: left" |Bazooka weapon arms: variable firing rate 2/4 rounds.
+|-
+! [[CR-WA74BZL]]
+| Crest||78400c||1522||1407(-)||1109||312(-)||134(-)||202(-)||-||-(-)||-||1020:1020||-||5050:5050||-||-||-||-||-||-||Solid||Narrow & Deep||72||510:495||1:1||80:145||131c||0||Shop|| style="text-align: left" |Bazooka weapon arms (small): variable firing rate 4/8 rounds.
+|-
+! [[CR-WA74GR]]
+| Crest||88000c||1520||1830(-)||1887||315(-)||177(-)||155(-)||-||-(-)||-||2400:2400||-||13900:13900||-||-||-||-||-||-||Solid||Narrow & Deep||25||720:695||1:1||150:212||470c||0||Shop|| style="text-align: left" |Grenade weapon arms: variable firing rate 1/2 rounds.
+|-
+! [[CR-WA78GRL]]
+| Crest||81000c||1374||1532(-)||1725||297(-)||160(-)||302(-)||-||-(-)||-||1850:1850||-||10750:10750||-||-||-||-||-||-||Solid||Narrow & Deep||30||655:630||1:1||130:161||380c||0||Shop|| style="text-align: left" |Grenade weapon arms (small): variable firing rate 1/2 rounds.
+|-
+! [[WA02-CETUS]]
+| Mirage||96000c||1620||1245(-)||2335||248(-)||220(-)||515(-)||-||-(-)||-||880:1370||-||12620:4980||-||-||-||-||-||-||Solid||Narrow & Deep||48||420:540||1:1||112:88||324c||0||Shop|| style="text-align: left" |Linear gun weapon arms: firing type high-heat/normal.
+|-
+! [[WA01-LEO]]
+| Mirage||82200c||1575||1665(-)||2245||155(-)||301(-)||715(-)||-||-(-)||-||920:1370||-||6280:8980||-||-||-||-||-||-||Energy||Narrow & Deep||48||510:415||1:1||61:142||0c||3550:6800||Shop|| style="text-align: left" |Laser weapn arms: firing type normal/high attack.
+|-
+! [[WA04-ARIES]]
+| Mirage||53300||1322||1493(-)||2008||151(-)||377(-)||806(-)||-||-(-)||-||105:105||-||1015:1015||-||-||-||-||-||-||Energy||Special||244||350:200||1:1||16:30||0c||1470:1680||Shop|| style="text-align: left" |Laser weapon arms (spread): variable firing rate 6/12 rounds.
+|-
+! [[WA05-LUPUS]]
+| Mirage||48000c||1110||1180(-)||2645||196(-)||243(-)||880(-)||-||-(-)||-||105:105||-||1015:1015||-||-||-||-||-||-||Energy||Special||48||440:440||3:6||235:250||0c||28280:3965||Shop|| style="text-align: left" |Orbit weapon arms: maximum lock 3/6.
+|}
+=== Introduced in Armored Core: Last Raven Portable ===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer||Price||AP||Type||Weight(Tuned)||EN Drain||Def Shell(Tuned)||Def Energy(Tuned)||Cooling(Tuned)||Blade Aptitude||Aiming Accuracy(Tuned)||Aim Adjust Time||Attack Power||Discharge Heat||Attack Heat||Range Rating||EWAttackPower||EWDischargeHeat||EWAttackHeat||EWWaveRange||EWUsageDrain||Ammo Type||Weapon Lock||Ammo||Range||Maximum Lock||Firing Interval||Ammo Price||Usage Drain!!Unlock!!Notes
+|-
+! [[CR-YA99DC]]
+| Crest||-||1768||Middleweight||1286(-)||1296||308(-)||529(-)||796(-)||89||269(-)||8||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||Defeat [[Prilissa]] in the VR Arena|| style="text-align: left" |Unit with sphere-type armor for improved energy defense.
+|-
+! [[YA14-BONOBO]]
+| Mirage||-||1920||Heavyweight||1740(-)||1260||480(-)||549(-)||508(-)||68||232(-)||17||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||Obtain S rank on 00:00 missions|| style="text-align: left" |Test model with shield-type armor for outstanding defense.
+|}
+
+==Legs==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!AP!!Type!!Weight(Tuned)!!Moving Drain!!Stationary Drain!!Max Leg Weight(Tuned)!!Def Shell(Tuned)!!Def Energy(Tuned)!!Cooling(Tuned)!!Moving Ability!!Turning Ability!!Braking Ability!!Landing Stability!!Defense Stability!!Jump Performance!!Boost Power!!Charge Drain!!Booster Heat!!Unlock!!Notes
+|-
+! [[CR-LH69S]]
+| Crest||-||3514||Middleweight Bipedal||2510(-)||1744||1177||6345(-)||608(-)||447(-)||1280(-)||210||114||124||1522||1299||55||-||-||-||Starting Part|| style="text-align: left" |First generation leg part with average specifications.
+|-
+! [[LH01-LYNX]]
+| Mirage||40000c||3099||Middleweight||1870(1808)||2065||926||5759(5985)||497(525)||527(553)||849(1097)||218||113||1205||1205||1192||105||-||-||-||Shop|| style="text-align: left" |First generation two-leg design with balanced performance.
+|-
+! [[LH02-LYNX2]]
+| Mirage||43000c||3305||Middleweight||1831(1773)||2325||1645||5951(6177)||486(515)||587(609)||905(1144)||226||111||118||1303||1121||108||-||-||-||Shop|| style="text-align: left" |Remodeled LYNX design with higher AP and energy defense.
+|-
+! [[LH04-DINGO]]
+| Mirage||50000c||3088||Middleweight||1793(1719)||1627||754||6084(6294)||505(530)||431(454)||1082(1285)||244||117||113||1497||1230||114||-||-||-||Shop|| style="text-align: left" |Low energy consumption two-leg design with balanced defense.
+|-
+! [[CR-LH73SSA]]
+| Crest||58000c||3448||Middleweight||3448(2459)||1657||812||5814(6023)||694(708)||438(470)||988(1215)||205||110||141||1669||1455||90||-||-||-||Shop|| style="text-align: left" |Specialized design emphasizing armor and shell defense.
+|-
+! [[CR-LH80S2]]
+| Crest||62500c||3390||Middleweight||2249(2149)||1639||800||5907(6126)||592(614)||451(492)||1248(1435)||235||119||120||1553||1331||117||-||-||-||Shop|| style="text-align: left" |Lightweight conversion of the LH73SSA.
+|-
+! [[LH05-COUGAR]]
+| Mirage||80000c||3529||Middleweight||2384(2271)||2427||1419||6575(6763)||603(624)||575(598)||1366(1536)||215||109||127||1288||1489||97||-||-||-||Shop|| style="text-align: left" |Third generation design stressing load capacity and defense.
+|-
+! [[CR-LH89F]]
+| Crest||88000c||3113||Middleweight||2228(2105)||1391||606||6312(6511)||583(601)||406(441)||898(1131)||250||112||117||1720||1651||110||-||-||-||Shop|| style="text-align: left" |Standard two-leg model featuring reduced energy consumption.
+|-
+! [[LH07-DINGO2]]
+| Mirage||127000c||3029||Middleweight||1734(1666)||1510||751||5891(6111)||500(524)||458(489)||1009(1225)||273||125||128||1518||1378||121||-||-||-||Shop|| style="text-align: left" |DINGO variation with enhanced mobility performance.
+|-
+! [[CR-LH92S3]]
+| Crest||129000c||3758||Middleweight||2635(2431)||2469||1221||5977(6178)||674(694)||551(575)||1310(1467)||219||115||149||1635||1602||112||-||-||-||Shop|| style="text-align: left" |Fourth generation design with emphasis on overall balance.
+|-
+! [[LH09-COUGAR2]]
+| Mirage||130000c||3045||Middleweight||1856(1775)||2049||803||6008(6222)||565(586)||516(544)||1146(1340)||264||122||135||1799||1505||126||-||-||-||Shop|| style="text-align: left" |Reduced weight version of the original COUGAR design.
+|-
+! [[CR-LH74M]]
+| Crest||37500c||2811||Lightweight||1500(1475)||2500||1215||4492(4767)||351(389)||487(512)||807(1077)||370||130||107||903||948||135||-||-||-||Shop|| style="text-align: left" |Reduced weight part design for high speed and mobility.
+|-
+! [[LH03-PANTHER]]
+| Mirage||55000c||2991||Lightweight||1803(1748)||2429||1106||4786(5047)||451(482)||469(496)||959(1209)||328||121||118||1098||1203||122||-||-||-||Shop|| style="text-align: left" |Mobile combat design with an overall high level of performance.
+|-
+! [[CR-LH79L]]
+| Crest||62300c||2535||Lightweight||1600(1565)||2320||613||4588(4859)||402(437)||462(489)||904(1161)||339||126||132||985||998||140||-||-||-||Reward from [[Defend Entrance]](REV)/Complete The Accuracy Trainer(NB)|| style="text-align: left" |Newly designed lightweight two-leg model.
+|-
+! [[CR-LH84L2]]
+| Crest||69500c||2994||Lightweight||1691(1647)||2783||1412||4891(5146)||415(449)||539(560)||1140(1366)||351||131||105||1045||1064||137||-||-||-||Shop|| style="text-align: left" |LH79L successor with improved defense and load capacity specs.
+|-
+! [[LH06-JAGUAR]]
+| Mirage||77000c||2647||Lightweight||1832(1774)||2630||1180||5197(5437)||451(482)||503(527)||1210(1427)||377||124||102||1122||1172||130||-||-||-||Shop|| style="text-align: left" |High mobility two-leg model with good defense performance specs.
+|-
+! [[CR-LH95M2]]
+| Crest||78800c||2850||Lightweight||1656(1615)||3179||2013||4971(5222)||414(448)||600(616)||1124(1352)||381||133||137||1008||1101||143||-||-||-||Shop|| style="text-align: left" |Improved version of the LH74M. Good overall performance.
+|-
+! [[LH10-JAGUAR2]]
+| Mirage||90000c||2662||Lightweight||1904(1839)||1460||990||5200(5440)||504(532)||480(506)||1420(1610)||375||127||100||1222||1192||135||-||-||-||Shop|| style="text-align: left" |JAGUAR model design featuring slight blance adjustments.
+|-
+! [[CR-LH99XS]]
+| Crest||100400c||3045||Lightweight||2284(2210)||2697||1306||5380(5611)||508(539)||599(620)||1167(1347)||352||123||111||1342||1295||121||-||-||-||Shop|| style="text-align: left" |New model type that maintains mobility and adds load capacity.
+|-
+! [[YLH11-VIXEN]]
+| Mirage||115000c||2661||Lightweight||2150||2150(2088)||2934||1177||5132(5375)||481(513)||621(641)||995(1204)||366||140||130||1181||1250||151||-||-||-||Reward from [[Destroy Phantasma]](REV)/Complete Evade Missiles trainer(NB)|| style="text-align: left" |Leg part designed for good short duration offensive performance.
+|-
+! [[CR-LH77A]]
+| Crest||63500c||3424||Heavyweight||2814(2658)||1787||1010||7321(7455)||675(691)||466(496)||1020(1242)||150||107||169||2274||11811||80||-||-||-||Shop|| style="text-align: left" |Heavily armored two-leg design. Good defense and load capacity.
+|-
+! [[LH08-JACKAL]]
+| Mirage||70000c||3520||Heavyweight||3147(2957)||1654||957||6942(7095)||686(701)||505(533)||1277(1460)||143||104||155||1338||2020||71||-||-||-||Shop|| style="text-align: left" |Heavy armor leg model based off of the DINGO design.
+|-
+! [[CR-LH81AP]]
+| Crest||74800c||3788||Heavyweight||3174(2982)||2038||1283||8220(8309)||710(723)||523(549)||1412(1575)||135||100||143||1909||1955||65||-||-||-||Shop|| style="text-align: left" |Offensive model featuring enhanced load capacity.
+|-
+! [[CR-LH94A2]]
+| Crest||82600c||3365||Heavyweight||2557(2426)||1705||1231||6384(6565)||621(641)||610(630)||1309(1488)||158||114||182||1732||1725||91||-||-||-||Shop|| style="text-align: left" |LH77A successor. Features improved balance and cooling.
+|-
+! [[LH12-LYCAON]]
+| Mirage||90000c||3479||Heavyweight||3024(2847)||2118||1810||6633(6801)||711(724)||560(584)||1512(1660)||146||107||178||2633||2411||77||-||-||-||Shop|| style="text-align: left" |Heavyweight model adaptable to a variety of combat situations.
+|-
+! [[CR-LH96FA]]
+| Crest||99800c||3540||Heavyweight||2431(2286)||1982||1244||7366(7515)||589(606)||559(583)||1399(1553)||182||110||165||2461||2229||85||-||-||-||Shop|| style="text-align: left" |New heavyweight model based on the LH89F design.
+|-
+! [[LH13-JACKAL2]]
+| Mirage||110000c||3811||Heavyweight||3494(3270)||2147||1712||7866(7973)||725(737)||567(590)||1596(1732)||140||96||134||2086||2301||68||-||-||-||Shop|| style="text-align: left" |Highest defensive performance of all two-leg models.
+|-
+! [[LR01-GOAT]]
+| Mirage||40000c||3325||Reverse Joint||2216(2095)||1347||399||5425(5654)||558(591)||401(436)||705(988)||256||121||117||1892||972||166||-||-||-||Shop|| style="text-align: left" |Mirage-manufactured standard reverse-joint leg design.
+|-
+! [[CR-LRJ76]]
+| Crest||42000c||3105||Reverse Joint||1931(1841)||1274||412||5122(5366)||575(598)||385(421)||813(1082)||268||123||133||1814||915||187||-||-||-||Shop|| style="text-align: left" |Crest's standard reverse-joint leg design.
+|-
+! [[CR-LRJ84M]]
+| Crest||60000c||2926||Reverse Joint||1844(1764)||513||513||5244(5482)||535(561)||443(475)||938(1191)||270||128||152||1822||944||198||-||-||-||Reward from [[Defend Receiving Base]](REV)/Complete Spacing trainer (NB)|| style="text-align: left" |Lightweight reverse-joint design stressing maneuverability.
+|-
+! [[LR04-GAZELLE]]
+| Mirage||65000c||3210||Reverse Joint||2084(1977)||1388||435||5731(5944)||556(580)||444(476)||997(1242)||280||120||149||2797||1004||181||-||-||-||Shop|| style="text-align: left" |Mobile combat model with low energy consumption.
+|-
+! [[LR02-ORYX]]
+| Mirage||43000c||3722||Reverse Joint||2614(2449)||1486||880||5813(6022)||666(682)||429(462)||1109(1339)||180||114||127||2469||1212||159||-||-||-||Shop|| style="text-align: left" |Combat design boasting improved defensive stability.
+|-
+![[CR-LRJ84A]]
+|Crest
+|45000c
+|3528
+|Reverse Joint
+|2743(2594)
+|1693
+|912
+|6204(6394)
+|692(707)
+|445(477)
+|902(1142)
+|185
+|114
+|131
+|2098
+|1066
+|151
+| -
+| -
+| -
+|Shop
+|Heavily armored reverse-joint leg design.
+|-
+! [[LR03-ORYX2]]
+| Mirage||61000c||3315||Reverse Joint||2289(2160)||1704||1021||6038(6236)||651(668)||449(481)||1158(1382)||195||116||136||2618||1108||170||-||-||-||Shop|| style="text-align: left" |Lighter weight ORYX model that maintains defensive specs.
+|-
+! [[CR-LRJ90A2]]
+| Crest||45000c||3528||Reverse Joint||2469(2320)||1608||912||6204(6394)||692(707)||445(477)||1037(1277)||185||114||131||2098||1056||151||-||-||-||Shop|| style="text-align: left" |Heavily armored reverse-joint leg design.
+|-
+! [[LF01-MONITOR]]
+| Mirage||59000c||2864||Quadruped||2137(2048)||2605||1350||5055(5325)||535(561)||534(560)||1426(1593)||260||125||154||953||2044||118||-||-||-||Shop|| style="text-align: left" |Standard quad-leg model with average performance specs.
+|-
+! [[CR-LF71]]
+| Crest||60000c||2890||Quadruped||1920(1853)||3319||1220||5502(5752)||392(428)||621(641)||1738(1860)||268||131||148||899||1905||107||-||-||-||Reward from [[Protect Fuel Depot]](NX)|| style="text-align: left" |Crest's standard quad-leg model. Excellent cooling performance.
+|-
+! [[CR-LF81]]
+| Crest||70000c||2711||Quadruped||2300(2195)||2317||1220||4968(5242)||486(515)||514(541)||1235(1430)||255||136||163||1055||2168||125||-||-||-||Shop|| style="text-align: left" |LF71 successor, offers improved energy cunsumption.
+|-
+! [[LF02-GAVIAL]]
+| Mirage||85000c||3030||Quadruped||3337(3128)||2147||1305||5775(6013)||512(539)||443(475)||1655(1789)||285||134||141||1206||2004||95||-||-||-||Shop|| style="text-align: left" |Lightly armored quad-leg design built for maneuvering.
+|-
+! [[LF03-GAVIAL2]]
+| Mirage||90000c||3277||Quadruped||3035(2857)||3477||1624||6600(6800)||571(594)||583(605)||1544(1694)||251||122||199||1177||2520||95||-||-||-||Shop|| style="text-align: left" |Highest laod capacity of all quad-leg designs.
+|-
+! [[CR-LF88A]]
+| Crest||95000c||3428||Quadruped||2547(2417)||3972||1900||6050(6275)||507(535)||698(712)||1344(1523)||276||236||189||1255||2108||129||-||-||-||Shop|| style="text-align: left" |Combat model with improved energy defense.
+|-
+! [[LF04-LIZARD]]
+| Mirage||100000c||2992||Quadruped||2388(2274)||2964||1736||6196(6414)||534(560)||562(586)||1454(1617)||272||133||182||1118||2323||122||-||-||-||Shop|| style="text-align: left" |Heavyweight Mirage design with well-balanced defense specs.
+|-
+! [[CR-LF93A2]]
+| Crest||130000c||3387||Quadruped||2904(2739)||3670||1235||6435(6645)||603(624)||574(579)||1560(1708)||280||130||177||1192||2605||114||-||-||-||Shop|| style="text-align: left" |Heavyweight quad-leg design with good defense and load capacity.
+|-
+! [[CR-LT69]]
+| Crest||33000c||3677||Tank||3420(3023)||1099||0||8010(8110)||750(760)||355(393)||588(875)||210||114||305||0||14000||0||14000||3030||4320||Shop|| style="text-align: left" |Low energy consumption tank model with high load capacity.
+|-
+! [[CR-LT71]]
+| Crest||40000c||3714||Tank||4050(3770)||939||0||8531(8604)||789(797)||336(375)||1145(1348)||196||113||335||0||2388||0||14000||3030||4320||Shop|| style="text-align: left" |Notes.
+|-
+! [[LT01-BOAR]]
+| Mirage||65000c||3434||Tank||2503(2365)||2876||0||5931(6134)||657(674)||605(626)||1425(1586)||255||122||175||0||1314||0||16500||4050||3685||Shop|| style="text-align: left" |Hover-style tank model designed to combine mobility and defense.
+|-
+! [[LT02-BOAR2]]
+| Mirage||72000||3611||Tank||2873(2695)||2527||0||7569(7691)||706(720)||518(545)||1568(1708)||249||120||151||0||1534||0||16500||4050||3685||Shop|| style="text-align: left" |Improves on predecessor's energy consumption and load capacity.
+|-
+! [[CR-LT78A]]
+| Crest||95000c||3850||Tank||3761(3510)||1670||0||8877(8933)||817(823)||412(446)||888(1130)||226||107||333||0||2304||0||15900||3412||4542||Shop|| style="text-align: left" |A moving fort with high load capacity and defense specs.
+|-
+! [[CR-LT81A2]]
+| Crest||99000c||3795||Tank||3655(3415)||1888||0||8599(8669)||801(808)||428(461)||1011(1234)||222||111||324||0||2475||0||15900||3412||4542||Shop|| style="text-align: left" |Offensive cannot model with good cooling and defense.
+|-
+! [[LT03-GRIZZLY]]
+| Mirage||100000c||3451||Tank||2570(2424)||3168||0||6769(6931)||664(681)||555(579)||1726(1842)||284||114||235||0||1466||0||16500||4050||3685||Shop|| style="text-align: left" |Mirage hover-style tank model with reinforced energy defense.
+|-
+! [[CR-LHT92]]
+| Crest||120000c||3182||Tank||2676(2519)||2648||0||6523(6697)||735(747)||546(571)||1833(1933)||263||118||220||0||1608||0||19500||2660||5890||Shop|| style="text-align: left" |High performance Crest hover leg model.
+|-
+! [[CR-LN79]]
+| Crest||40000c||3229||Hover||2581(2448)||1492||0||5422(5651)||528(554)||431(464)||1237(1459)||520||122||199||0||1308||0||21800||2660||5020||Shop|| style="text-align: left" |Hoever leg model incorporating unique design features.
+|-
+! [[LN01-SEAL]]
+| Mirage||42000c||3177||Hover||1923(1856)||1795||0||5182(5423)||454(485)||479(508)||1195(1422)||605||124||210||0||1050||0||20900||4350||4740||Reward from [[Protect Fuel Depot]](NX)/Complete Defense: Melee trainer (NB)|| style="text-align: left" |Early model Mirage hover leg offering balanced performance.
+|-
+! [[CR-LN85]]
+| Crest||57000c||3534||Hover||2096(2011)||2425||0||5204(5445)||506(534)||475(505)||1288(1505)||590||125||206||0||1078||0||21800||2660||5020||Shop|| style="text-align: left" |Modified LN79 design offering improved overall performance.
+|-
+! [[LN02-SEALION]]
+| Mirage||63000c||2577||Hover||2498(2373)||1589||0||5816(6025)||472(502)||463(494)||1554(1700)||532||126||236||0||1358||0||20900||4350||4740||Shop|| style="text-align: left" |Redesigned SEAL model with enhanced load capacity.
+|-
+! [[LN03-WALRUS]]
+| Mirage||65000c||3079||Hover||1621(1584)||1418||0||4977(4228)||388(424)||399(434)||1372(1577)||574||128||189||0||957||0||20900||4350||4740||Shop|| style="text-align: left" |Capable of moving at high speed for extended periods of time.
+|-
+! [[CR-LN91HM]]
+| Crest||100000c||2918||Hover||1655(1615)||2044||0||4399(4679)||400(435)||500(528)||1216(1440)||691||133||178||0||899||0||23100||3420||5820||Shop|| style="text-align: left" |Hover leg model designed solely for speed.
+|-
+! [[CR-LN99M2]]
+| Crest||120000c||3112||Hover||1804(1749)||2278||0||4502(4777)||423(456)||563(587)||1401(1585)||640||130||220||0||1095||0||22750||3420||5820||Shop|| style="text-align: left" |Combat modified LN91HM hover leg model.
+|-
+! [[LN04-WALRUS2]]
+| Mirage||140000c||3443||Hover||2004(1929)||1890||0||5534(5757)||506(536)||531(557)||1636(1768)||628||124||219||0||1273||0||22750||5070||5195||Reward from [[Investigate Phenomenon]](NX)|| style="text-align: left" |WALRUS conversion with improved defense and load capacity.
+|}
+=== Introduced in Armored Core: Last Raven Portable ===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!AP!!Type!!Weight(Tuned)!!Moving Drain!!Stationary Drain!!Max Leg Weight(Tuned)!!Def Shell(Tuned)!!Def Energy(Tuned)!!Cooling(Tuned)!!Moving Ability!!Turning Ability!!Braking Ability!!Landing Stability!!Defense Stability!!Jump Performance!!Boost Power!!Charge Drain!!Booster Accel!!Booster Heat!!Unlock!!Notes
+|-
+! [[YLF06-ANOLE]]
+| Mirage||-||2546||Quadruped||2593(-)||3358||1380||5060(-)||589(-)||669(-)||1416(-)||282||138||192||1008||1908||102||-||-||-||-||Defeat [[Barry Manx]] in the VR Arena|| style="text-align: left" |Mirage test model with standard defense and upgraded mobility.
+|-
+! [[CR-YLHT08]]
+| Crest||Price||AP||Tank||2672(-)||2622||-||6442(-)||645(-)||635(-)||1362(-)||285||108||238||-||1741||-||19500||2660||2640||5595||Obtain S rank on all 18:00 missions|| style="text-align: left" |Prototype featuring hover technology for improved mobility.
+|}
+==Boosters==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Weight(Tuned)!!EN Drain!!Boost Power(Tuned)!!Charge Drain!!Booster Heat(Tuned)!!Unlock!!Notes
+|-
+! [[CR-B69]]
+| Crest||-||200(-)||127||9270(-)||4070||3706(-)||Starting Part|| style="text-align: left" |First generation Crest booster design.
+|-
+! [[CR-B72T]]
+| Crest||28500c||248(226)||388||13390(14590)||2525||4314(4031)||Shop|| style="text-align: left" |Twin-engine design with improved power performance.
+|-
+! [[B01-BIRDIE]]
+| Mirage||55000c||377(335)||137||15244(16174)||3310||2714(2664)||Shop|| style="text-align: left" |Booster design with low energy drain and respectable power.
+|-
+! [[CR-B81]]
+| Crest||75800c||164(154)||338||14369(15427)||2337||3423(3270)||Shop|| style="text-align: left" |Booster model designed to perform well in prolonged combat.
+|-
+! [[CR-B83TP]]
+| Crest||63000c||389(342)||195||20497(20662)||5932||4611(4284)||Hidden in [[Capture Mining Platform]](REV)/Complete the Heat Resisting trainer (NB)|| style="text-align: left" |Excellent boost power, but high energy consumption.
+|-
+! [[B02-VULTURE]]
+| Mirage||75500c||230(210)||230||17819(18374)||3650||4814(4454)||Shop|| style="text-align: left" |Single engine design, produces a high level of heat when used.
+|-
+! [[B03-VULTURE2]]
+| Mirage||100000c||363(314)||235||18468(18928)||4315||4347(4059)||Shop|| style="text-align: left" |Modified VULTURE design with a lower booster heat ratings.
+|-
+! [[B04-BIRDIE2]]
+| Mirage||86000c||188(175)||138||16377(17142)||3940||3891(3669)||Shop|| style="text-align: left" |BIRDIE model redesigned to offer improved boost power.
+|-
+! [[B05-GULL]]
+| Mirage||110000c||270(244)||285||18962(19350)||2777||5583(5115)||Shop|| style="text-align: left" |New booster design loosely based on the VULTURE model.
+|-
+! [[CR-B90T2]]
+| Crest||112000c||479(414)||470||19879(20134)||4755||4978(4598)||Shop|| style="text-align: left" |Heavy twin-engine design with exceptional power.
+|}
+==FCS==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Weight!!EN Drain!!VS ECM!!Lock Type!!Targeting!!Maximum Lock!!Lock Time!!Missile Lock Time!!Max Capture!!AVG Capture!!Max Lock Range!!AVG Lock Range!!Parallel Sight!!Unlock!!Notes
+|-
+! [[MF01-MUREX]]
+| Mirage||-||14||14||251||Standard||Single||2||96||240||16:16||12:12||555||442||82||Shop|| style="text-align: left" |Balanced first generation Mirage design, standard lock type.
+|-
+! [[MF02-VOLUTE]]
+| Mirage||42000c||17||18||148||Standard||Multi||12||101||228||15:15||12:12||528||467||88||Shop|| style="text-align: left" |Standard lock type with multiple targeting capability.
+|-
+! [[CR-F69]]
+| Crest||49000c||12||47||243||Wide & Shallow||Single||1||117||300||21:21||15:15||406||309||87||Shop|| style="text-align: left" |Early Crest version featuring a wide and shallow lock type.
+|-
+! [[MF03-VOLUTE2]]
+| Mirage||58000c||14||31||280||Standard||Multi||4||92||248||17:17||13:13||604||483||85||Shop|| style="text-align: left" |Redesigned VOLUTE model. Standard lock type.
+|-
+! [[FUGEN]]
+| Kisaragi||60000c||16||112||126||Lengthway||Multi||6||95||132||19:12||14:9||495||448||78||Shop|| style="text-align: left" |Vertical lock type FCS, effective against aeriel targets.
+|-
+! [[KOKUH]]
+| Kisaragi||65000c||18||85||235||Sideway||Singe||6||90||208||11:20||8:16||500||450||80||Shop|| style="text-align: left" |Horizontal lock type, excellent ground combat performance.
+|-
+! [[MF04-COWRY]]
+| Mirage||68000c||20||19||266||Wide & Shallow||Single||3||124||288||23:23||16:16||380||335||79||Reward from [[Attack Mirage Transports]](NX)/Complete the Run + Defense trainer (NB)|| style="text-align: left" |Wide and shallow lock type FCS effective for short-range combat.
+|-
+! [[MIROKU]]
+| Kisaragi||70000c||25||77||249||Standard||Single||10||80||176||18:18||13:13||575||480||70||Reward from [[Destroy Raiding Party]](REV)/Complete Proper Distance trainer (NB)|| style="text-align: left" |Standard lock type FCS with excellent lock time performance.
+|-
+! [[MF05-LIMPET]]
+| Mirage||78000c||31||27||172||Wide & Shallow||Multi||6||111||264||21:21||15:15||370||331||85||Rank 10 in the arena (NX)|| style="text-align: left" |Redesigned COWRY model, added multiple target capability.
+|-
+! [[CR-F73H]]
+| Crest||98000c||28||44||192||Sideway||Single||3||104||192||12:22||9:18||475||435||90||Shop|| style="text-align: left" |Horizontal lock type FCS with balanced lock range and capture.
+|-
+! [[CR-F75D]]
+| Crest||120000c||18||51||351||Narrow & Deep||Single||2||85||232||12:12||10:10||1200||942||92||Shop|| style="text-align: left" |Marrow and deep lock type FCS with excellent lock range.
+|-
+! [[CR-F82D2]]
+| Crest||150000c||35||45||275||Narrow & Deep||Single||8||79||180||13:13||11:11||990||817||86||Shop|| style="text-align: left" |Narrow and deep lock type with improved maximun lock ability.
+|-
+! [[CR-F91DSN]]
+| Crest||45000c||22||55||275||Narrow & Deep||Single||1||71||220||11:11||10:10||850||725||75||Shop|| style="text-align: left" |Narrow and deep lock type FCS with improved lock time.
+|-
+! [[MONJU]]
+| Kisaragi||145000c||24||93||177||Sideway||Multi||6||99||168||13:20||10:16||535||492||83||Shop|| style="text-align: left" |Horizontal lock type FCS, works well with a range of weapons.
+|}
+=== Introduced in Armored Core: Last Raven Portable ===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Weight!!EN Drain!!VS ECM!!Lock Type!!Targeting!!Maximum Lock!!Lock Time!!Missile Lock Time!!Max Capture!!Avg Capture!!Max Lock Range!!Avg Lock Range!!Parallel Sight!!Unlock!!Notes
+|-
+! [[CR-YF02H2]]
+| Crest||Price||37||66||306||Sideway||Multi||12||90||156||11:19||9:16||440||397||76||Defeat [[-1]] in the VR Arena|| style="text-align: left" |High-speed horizontal lock type for close-range use.
+|}
+
+==Generator==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Weight(Tuned)!!EN Output(Tuned)!!Condenser Cap(Tuned)!!Emergency Cap!!Calorific Value!!Unlock!!Notes
+|-
+! [[CR-G69]]
+| Crest||-||381(-)||7950(-)||22000(-)||2800||2055||Starting Part|| style="text-align: left" |Early model with low output, but a low calorific value.
+|-
+! [[CR-G78]]
+| Crest||25500c||355(317)||8280(8838)||36000(38850)||1500||2432||Shop|| style="text-align: left" |Modified G69 with improved output and condenser capacity.
+|-
+! [[G01-LOTUS]]
+| Mirage||32000c||309(278)||8830(9306)||18500(23975)||6000||2611||Shop|| style="text-align: left" |First generation Mirage design, low output, but lightweight.
+|-
+! [[CR-G84P]]
+| Crest||54000c||576(505)||10990(11142)||30000(33750)||500||3399||Shop|| style="text-align: left" |High output model designed specifically for heavy units.
+|-
+! [[CR-G91]]
+| Crest||59800c||645(410)||9990(10292)||37000(39700)||2000||3155||Shop|| style="text-align: left" |Redesigned version of the G78 with much improved output.
+|-
+! [[FUDOH]]
+| Kisaragi||65000c||772(671)||9514(9887)||48000(49050)||3500||2506||Shop|| style="text-align: left" |Excellect condenser capacity offsets the part's heavy weight.
+|-
+! [[G02-MAGNOLIA]]
+| Mirage||88000c||515(453)||10350(10598)||27000(31200)||5000||3541||Shop|| style="text-align: left" |Weight reduced to achieve balance between output and capacity.
+|-
+! [[KONGOH]]
+| Kisaragi||110000c||408(362)||11888(11905)||13000(19300)||1000||3892||Shop|| style="text-align: left" |High output design with emphasis on energy gauge recovery speed.
+|-
+! [[KUJAKU]]
+| Kisaragi||133000c||725(631)||11100(11235)||46800(48030)||3000||4198||Reward from [[Clear Out Mirage Forces]](NX)/Complete The Power Trainer (NB)|| style="text-align: left" |High performance specifications make it ideal for heavy units.
+|-
+! [[G03-ORCHID]]
+| Mirage||140000c||1110(958)||10000(10300)||52000(52450)||10000||3706||Shop|| style="text-align: left" |Latest model that features outstanding condenser capacity.
+|}
+
+==Radiator==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Weight(Tuned)!!EN Drain(Tuned)!!Cooling(Tuned)!!Forced Cooling!!Emergency Consumption!!Unlock!!Notes
+|-
+! [[CR-R69]]
+| Crest||-||318(-)||1008(-)||8110(-)||9730||1577||Starting Part|| style="text-align: left" |First generation Crest model, and lightest of all radiators.
+|-
+! [[CR-R76]]
+| Crest||16800c||413(366)||1299(1179)||9280(9913)||12500||1758||Shop|| style="text-align: left" |Modified R69 design with enhanced cooling performance.
+|-
+! [[R01-HAZEL]]
+| Mirage||27000c||346(309)||1121(1028)||8910(9595)||10510||1486||Shop|| style="text-align: left" |Mirage-manufactured radiator part emphasizing forced cooling.
+|-
+! [[R02-HAZEL2]]
+| Mirage||47000c||440(389)||1527(1373)||10310(10788)||11510||1986||Shop|| style="text-align: left" |Modified HAZEL design with improved cooling performance.
+|-
+! [[R03-LINDEN]]
+| Mirage||34500c||571(500)||1076(990)||8507(9256)||16700||1505||Shop|| style="text-align: left" |Specialized radiator design with emphasis on forced cooling.
+|-
+! [[ANANDA]]
+| Kisaragi||56500c||476(420)||1168(1068)||10950(11332)||12220||2770||Hidden in [[Shutdown Control System]](REV)/Complete Lock-on Skill trainer(NB)|| style="text-align: left" |Light weight somewhat offset by energy consumption values.
+|-
+! [[R04-LAUREL]]
+| Mirage||77000c||606(530)||1235(1125)||9650(10228)||13650||1822||Shop|| style="text-align: left" |New radiator design that caters to specific needs.
+|-
+! [[CR-R92]]
+| Crest||88500c||520(457)||1726(1542)||11455(11762)||14400||2002||Shop|| style="text-align: left" |Latest Crest design with balanced cooling and forced cooling.
+|-
+! [[RAGORA]]
+| Kisaragi||90000c||647(565)||1468(1323)||10950(11332)||17100||2370||Shop|| style="text-align: left" |Modified ANANDA with improved forced cooling performance.
+|-
+! [[FURUNA]]
+| Kisaragi||108000c||998(863)||2102(1862)||12730(12846)||14800||2510||Shop|| style="text-align: left" |High quality design with balanced cooling and forced cooling.
+|}
+
+==Inside==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Type!!Weight!!EN Drain!!Ammo Type!!Ammo!!ECM Level!!Effect Duration!!Attack Power!!Attack Heat!!Range!!Firing Interval!!Ammo Price!!Usage Drain!!Unlock!!Notes
+|-
+! [[CR-I69BD]]
+| Crest||22800c||Bomb Dispenser||233||45||Solid||16||-||-||750||7100||750||150||240c||0||Shop|| style="text-align: left" |Releases six small bombs when activated.
+|-
+! [[CR-I80BD2]]
+| Crest||34800c||Bomb Dispenser||273||85||Solid||32||-||-||750||7100||750||150||240c||0||Shop|| style="text-align: left" |Modified I69BD designed to hold additional ammo.
+|-
+! [[CR-I75FM]]
+| Crest||42800c||Floating Mine||206||190||Solid||36||-||-||1420||10526||-||90||320c||0||Shop|| style="text-align: left" |Ejects a floating contact mine when activated.
+|-
+! [[CR-I86FMM]]
+| Crest||50800c||Floating Mine||284||220||Solid||36||-||-||2210||14013||-||100||436c||0||Shop|| style="text-align: left" |Deploys a floating contact mine that drifts randomly.
+|-
+! [[CR-I92FMM2]]
+| Crest||72700c||Floating Mine||325||270||Solid||36||-||-||2210||14013||-||120||436c||0||Shop|| style="text-align: left" |Deploys a floating contact mine with increased drift speed.
+|-
+! [[I01M-URCHIN]]
+| Mirage||30000c||Mine Dispenser||242||75||Solid||20||-||-||580||7750||315||255||375c||0||Shop|| style="text-align: left" |Deploys a scattering of adhesive contact mines when activated.
+|-
+! [[CR-I69R]]
+| Crest||24800c||Rocket||226||55||Solid||10||-||-||1020||5150||650||64||98c||0||Shop|| style="text-align: left" |Small, manually aimed rocket launcher, Limited ammo stores.
+|-
+! [[CR-I78R2]]
+| Crest||37800c||Rocket||292||60||Solid||20||-||-||1020||5150||650||80||98c||0||Shop|| style="text-align: left" |Inside-mounted rocket launcher with increased ammo capacity.
+|-
+! [[CR-I84RN]]
+| Crest||63800c||Napalm Rocket||296||285||Solid||20||-||-||135||6200||520||70||180c||0||Shop|| style="text-align: left" |Deploys a rocket that bursts into flames when it makes contact.
+|-
+! [[I03RN-CORAL]]
+| Mirage||80000c||Napalm Rocket||478||195||Solid||36||-||-||168:36||9330||435||95||205||0||Hidden in [[Destroy Plus Escapee]](REV)/Complete Dexterity trainer(NB)|| style="text-align: left" |Mirage naplam rocket model with improved attack heat.
+|-
+! [[I05D-MEDUSA]]
+| Mirage||32000c||Decoy Dispenser||101||110||Solid||10||-||580||-||-||-||30||250c||0||Shop|| style="text-align: left" |Deploys a decoy pod that attracts incoming missiles.
+|-
+! [[CR-I79DD]]
+| Crest||38800c||Decoy Dispenser||155||135||Solid||8||-||150||-||-||-||60||338c||0||Rank 30 in the arena(EVO)|| style="text-align: left" |Deploys a decoy pod that remains active for a long duration.
+|-
+! [[I07D-MEDUSA2]]
+| Mirage||40000c||Decoy Dispenser||162||180||Solid||20||-||580||-||-||-||30||150c||0||Shop|| style="text-align: left" |Modified version of the MEDUSA. Improved ammo capacity.
+|-
+! [[CR-I94DD2]]
+| Crest||65800c||Decoy Dispenser||223||226||Solid||16||-||1500||-||-||-||60||338c||0||Shop|| style="text-align: left" |Decoy dispenser manufactured by Kisaragi, 17900 successor.
+Reward from [[Destroy Security Force]](REV)/Complete Vertical Move trainer(NB)
+|-
+! [[HIJIRI]]
+| Kisaragi||72850c||Decoy Dispenser||394||294||Solid||30||-||720||-||-||-||36||300c||0||Shop|| style="text-align: left" |Part's heavy weight is offset by increased ammo capacity.
+|-
+! [[I04E-SQUID]]
+| Mirage||45000c||ECM Maker||226||141||Solid||12||700||480||-||-||-||255||230c||0||Shop|| style="text-align: left" |Deploys an ECM pod that affects an opponent's radar lock-on.
+|-
+! [[HOHSHI]]
+| Kisaragi||54100c||ECM Maker||357||388||Solid||4||1150||600||-||-||-||255||440c||0||Hidden in [[Defend Mirage Transport]](NX)/Complete The Judgement Trainer(NB)|| style="text-align: left" |Limited number of uses offset by excellent ECM performance.
+|-
+! [[BIKUNI]]
+| Kisaragi||82350c||ECM Maker||322||190||Solid||20||600||900||-||-||-||255||240c||0||Shop|| style="text-align: left" |Notes.
+|-
+! [[SYAMANA]]
+| Kisaragi||113200c||ECM Maker||208||202||Solid||12||800||600||-||-||-||255||335c||0||Shop|| style="text-align: left" |ECM maker designed to achieve overall balanced stat values.
+|-
+! [[I06E-SQUID2]]
+| Mirage||130000c||ECM Maker||293||352||Solid||8||650||1200||-||-||-||255||375c||0||Shop|| style="text-align: left" |Modified SQUID design with improved ECM pod duration.
+|}
+
+==Extension==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Type!!Weight!!EN Drain!!Boost Power!!Charge Drain!!Booster Heat!!Boost Interval!!Ammo Type!!Attack Power!!Ammo||Attack Heat!!Range!!Maximum Launch!!Firing Interval!!Ammo Price!!Usage Drain!!VS MG Response!!Intercept Range!!Interference Ring!!Reload Amount!!Reload Uses!!Reload Interval!!Def Shell!!Def Energy!!Shield Coverage!!Heat Insulation!!Recover Energy!!Recover Time!!Usage Limit!!Use Interval!!Discharge Heat!!Unlock!!Notes
+|-
+! [[ANOKU]]
+| Kisaragi||14500c||Turn Booster||412||257||16000||14200||4350||110||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Auxilliary booster enabling quick turns when activated.
+|-
+! [[E04BB-ANGLER]]
+| Mirage||17900c||Back Booster ||341||243||18000||11600||6120||108||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Auxilliary booster that propels an AC backwards when activated.
+|-
+! [[E08BM-REMORA]]
+| Mirage||24000c||Multi Booster||305||258||17000||9400||2780||94||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Auxiliary booster that propels an AC forwards when activated.
+|-
+! [[CR-E98HB]]
+| Crest||36800c||Hover Booster||288||376||22000||4670||2370||150||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Auxiliary booster that enables an AC to hover in place.
+|-
+! [[CR-E73RM]]
+| Crest||22000c||Relation Missile||130||158||-||-||-||-||Solid||780||12||4320||500||4||95||205c||0||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Missile system interlinked with an AC's main missile launchers.
+|-
+! [[E02RM-GAR]]
+| Mirage||45000c||Relation Missile||260||180||-||-||-||-||Solid||765||24||4515||500||2||70||220c||0||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Missile system synched to an AC's main missile launchers.
+|-
+! [[CR-E84RM2]]
+| Crest||58000c||Relation Missile||331||278||-||-||-||-||Solid||780||20||4320||450||4||105||380c||0||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Interlocking missile deployment system.
+|-
+! [[E06RM-GAR2]]
+| Mirage||60000c||Relation Missile||301||206||-||-||-||-||Solid||765||28||4515||450||2||72||220c||0||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Modified version of the GAR with incteased ammo capacity.
+|-
+! [[CR-E92RM3]]
+| Crest||70000c||Relation Missile||399||253||-||-||-||-||Solid||765||36||4515||450||4||88||220c||0||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Interlocking missile system designed for long battles.
+|-
+! [[CR-E96RMG]]
+| Crest||38000c||Relation Missile||405||377||-||-||-||-||Solid||780||16||4320||400||2||120||313c||0||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Modified E84RM2 design adapted to carry ground torpedoes.
+|-
+! [[JIKYOH]]
+| Kisaragi||82900c||Relation Missile||359||327||-||-||-||-||Solid||702||20||5670||400||4||98||285c||0||-||-||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Interlocking missile system that fires vertical launch missiles.
+|-
+! [[FUNI]]
+| Kisaragi||95600c||Relation Missile||224||425||-||-||-||-||Solid||470||40||2450||450||4||104||315c||0||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||Reward from [[Stop Rampaging AC]](REV)/Complete Defense: Single trainer(NB)|| style="text-align: left" |Interlocking missile system that utilizes micro missiles.
+|-
+! [[CR-E81AM]]
+| Crest||37700c||Anti Missile||164||130||-||-||-||-||Solid||-||40||-||-||-||136||136c||0||48||200||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Missile intercept system that reacts to enemy missile launches.
+|-
+! [[CR-E90AM2]]
+| Crest||60900c||Anti Missile||227||164||-||-||-||-||Solid||-||40||-||-||-||10||136c||0||60||230||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Modified version of the E81AM. Improved intercept ability.
+|-
+! [[E07AM-MORAY]]
+| Mirage||69000c||Anti Missile||312||117||-||-||-||-||Solid||-||48||-||-||-||15||160c||0||68||250||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Missile intercept system with improved ammo stores.
+|-
+! [[SUIGETSU]]
+| Kisaragi||41200c||Anti Missile||197||412||-||-||-||-||Energy||-||28||-||-||-||15||0c||1450||75||300||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Energy-based automatic missile intercept system.
+|-
+! [[RURI]]
+| Kisaragi||39000c||Missile Counter||85||142||-||-||-||-||-||-||-||-||-||-||FiringInterval||AmmoPrice||2213||-||82||-||150||-||-||-||-||-||-||Shop|| style="text-align: left" |Generates pulse that interfere with missile quidance systems.
+|-
+! [[RENGA]]
+| Kisaragi||52000c||Missile Counter||294||202||-||-||-||-||-||-||-||-||-||-||-||-||1774||-||80||-||150||-||-||-||-||-||-||-||-||-||-||-||-||Hidden in [[Recover Containers]](REV)/Complete The Judgement Trainer(NB)|| style="text-align: left" |Modified RURI design that uses less energy.
+|-
+! [[RYUHZU]]
+| Kisaragi||20000c||Shell Magazine||219||34||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||36||1||180||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Extra ammo magazine for right arm rifles (36 rounds X 1 reload).
+|-
+! [[BYAKUE]]
+| Kisaragi||30000c||Shell Magazine||288||52||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||24||2||180||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Extra ammo magazine for right arm rifles (24 rounds X 2 reload).
+Reward from [[Mop Up Chrome Remnants]](REV)/Complete Circling Target trainer(NB)
+|-
+! [[E01MG-ROE]]
+| Mirage||15400c||Energy Magazine||125||281||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||12||1||180||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Ammo magazine for right arm laser rifles (12 rounds X 1 reload).
+|-
+! [[E05MG-ROE2]]
+| Mirage||21400c||Energy Magazine||245||474||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||12||2||180||-||-||-||-||-||-||-||-||-||Hidden in [[Support OAE Invasion]](NX)/Complete Total Mobility trainer (NB)|| style="text-align: left" |Ammo magazine for right arm laser rifles (12 rounds X 2 reload).
+|-
+! [[CR-E69SS]]
+| Crest||22000c||Side Shield||175||4||-||-||-||-||-||-||-||-||-||-||-||-||0||-||-||-||-||-||-||-||77||18||50||183||-||-||-||-||-||Shop|| style="text-align: left" |Side shield that provides an additional defense boost.
+|-
+! [[CR-E82SS2]]
+| Crest||43800c||Side Shield||255||6||-||-||-||-||-||-||-||-||-||-||-||-||0||-||-||-||-||-||-||-||138||23||42||411||-||-||-||-||-||Shop|| style="text-align: left" |Modified E69SS with improved solid round defense.
+|-
+! [[E03S-TURBOT]]
+| Mirage||36900c||Side Shield||132||97||-||-||-||-||-||-||-||-||-||-||-||-||1270||-||-||-||-||-||-||-||5||110||50||432||-||-||-||-||-||Shop|| style="text-align: left" |Activates an energy shield that provides additional defense.
+|-
+! [[IWATO]]
+| Kisaragi||52300c||Side Shield||188||132||-||-||-||-||-||-||-||-||-||-||-||-||1515||-||-||-||-||-||-||-||20||175||42||555||-||-||-||-||-||Reward given in [[Destroy City Defense Force]](NX)|| style="text-align: left" |Side shield with an excellent energy round defense rating.
+|-
+! [[SAISUI]]
+| Kisaragi||82000c||Energy Pack||498||54||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||42000||120||2||244||495||Shop|| style="text-align: left" |Supplemental energy device that enables energy to be recovered.
+|-
+! [[JIREN]]
+| Kisaragi||115000c||Energy Pack||412||77||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||33000||60||3||220||680||Hidden in [[Rescue the Allies]](REV)/Complete the Durability Trainer(NB)|| style="text-align: left" |Modified SAISUI with faster recovery time and more uses.
+|}
+
+==Back Unit==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Type!!Weight!!EN Drain!!Ammo Type!!Weapon Lock!!Attack Power!!Ammo!!Attack Heat!!Range!!Maximum Lock!!Firing Interval!!Ammo Price!!Usage Drain!!MagCapacity!!MagReload!!VS ECM!!Radar Range!!Radar Type!!Scanning Interval!!Missile Sensor!!Bio-Sensor!!Boost Power!!Charge Drain!!Booster Heat!!Unlock!!Notes
+|-
+! [[CR-WB69M]]
+| Crest||-||Small Missile||221||205||Solid||Standard||780||40||4320||445||1||85||205c||0||-||-||-||-||-||-||-||-||-||-||-||Starting Part|| style="text-align: left" |Single-Launch small missile, takes time to lock-on.
+|-
+! [[WB01M-NYMPHE]]
+| Mirage||25000c||Small Missile||303||270||Solid||Standard||765||36||4515||460||6||72||220c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Mirage-manufactured small missile, six lock maximum.
+|-
+! [[CR-WB72M2]]
+| Crest||29500c||Small Missile||422||255||Solid||Standard||780||50||4320||425||10||65||205c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Small missile launcher, added ammo, ten lock maximum.
+|-
+! [[WB04M-NYMPHE2]]
+| Mirage||40000c||Small Missile||519||406||Solid||Standard||765||48||1415||460||12||90||220c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Small missile launcher, twelve lock maximum.
+|-
+! [[MAGORAGA]]
+| Kisaragi||67510c||Micro Missile||311||435||Solid||Standard||405||50||2000||700||1||115||315c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Micro missile launcher, fires five missiles per lock-on.
+|-
+! [[KINNARA]]
+| Kisaragi||73770c||Micro Missile||474||522||Solid||Standard||405||70||2000||700||1||115||315c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Mirco missile launcher, fires seven missiles per lock-on.
+|-
+! [[KARURA]]
+| Kisaragi||99540c||Micro Missile||640||608||Solid||Standard||405||90||2000||700||1||130||315c||0||-||-||-||-||-||-||-||-||-||-||-||Hidden in [[Combat Test]](REV)/Complete the Hit: Single Trainer(NB)|| style="text-align: left" |Mirco missile launcher, fires nine missiles per lock-on.
+|-
+! [[WB05M-SATYROS]]
+| Mirage||35600c||Middle Missile||445||270||Solid||Standard||1190||24||5895||520||2||110||300c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Mid sized missile launcher, two lock maximum.
+|-
+! [[CR-WB73MP]]
+| Crest||50000c||Middle Missile||649||203||Solid||Standard||1350||36||6120||500||4||120||275c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Mid-sized missile launcher, four lock maximum.
+|-
+! [[CR-WB73MV]]
+| Crest||76000c||Vertical Missile||581||314||Solid||Standard||1350||24||6120||440||4||95||275||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Deploys mid-sized missiles on a vertical launch trajectory.
+|-
+! [[WB06M-SPARTOI]]
+| Mirage||65000c||Dual Missile||360||422||Solid||Standard||765||36||4515||460||2||93||280c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Simultaneously launches two small missiles per lock-on.
+|-
+! [[WB11M-HYDRA]]
+| Mirage||45000c||Multi Missile||635||318||Solid||Standard||765||16||4515||600||1||78||1080||0||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Missile separates into four individual warheads after launch.
+|-
+! [[WB19M-HYDRA2]]
+| Mirage||100000c||Multi Missile||464||300||Solid||Standard||620||6||3370||600||1||84||2100c||0||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Missile separates into two groups of four warheads after launch.
+|-
+! [[CR-WB75MT]]
+| Crest||86700c||Triple Missile||828||360||Solid||Standard||780||60||4320||500||1||78||205c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Simultaneously launches three small missiles per lock-on.
+|-
+! [[CR-WB82MGT]]
+| Crest||69900c||Ground Torpedo||650||305||Solid||Standard||780||15||4320||450||1||88||1120c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Fires a low trajectory missile that separates into 4 warheads.
+|-
+! [[WB12M-EMPUSA]]
+| Mirage||100000c||Hi Act Missile||599||506||Solid||Standard||620||36||3370||550||8||115||400c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Launches missiles with improved homing performance. 8 lock max.
+|-
+! [[WB20M-EMPUSA2]]
+| Mirage||70000c||Hi Act Missile||545||418||Solid||Standard||620||24||3370||450||2||78||400c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Modified EMPUSA. Launches missiles vertically.
+|-
+! [[WB21M-DRYAD]]
+| Mirage||60000c||Stealth Missile||365||545||Solid||Standard||765||36||4515||460||1||78||425c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Launches missiles less susceptible to interference.
+|-
+! [[WB22M-DRYAD2]]
+| Mirage||90000c||Stealth Missile||428||492||Solid||Standard||765||30||4515||460||3||78||330c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Modified DRYAD. Can launch up to three missiles simultaneously.
+|-
+! [[CR-WB91MB]]
+| Crest||44800c||Cluster Missile||355||295||Solid||Standard||750||30||7100||600||1||90||570c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Missile explodes above target showering it with cluster bombs.
+|-
+! [[CR-WB94MB2]]
+| Crest||67700c||Cluster Missile||1368||1008||Solid||Standard||6000||4||26000||290||1||255||3500c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |WB91MB successor, modified to carry additional missiles.
+|-
+! [[CR-WB85MPX]]
+| Crest||149600c||Large Missile||1368||1008||Solid||Standard||6000||4||26000||290||1||255||3500c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Large missiles slow to lock-on, but exceptionally powerful.
+|-
+! [[CR-WB69RO]]
+| Crest||15700c||Small Rocket||199||56||Solid||-||1020||30||5150||633||-||42||110c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Small rocket launcher requiring manual target acquistion.
+|-
+! [[CR-WB72RO2]]
+| Crest||26400c||Small Rocket||411||56||Solid||-||1020||50||5160||633||-||45||110c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Modified WB69RO. Carries more rounds tham its predecessor.
+|-
+! [[CR-WB75RP]]
+| Crest||33700c||Middle Rocket||351||108||Solid||-||1520||25||7570||580||-||65||158c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Fires mid-sized rockets with increased.
+|-
+! [[WB07RO-ORTHOS]]
+| Mirage||40000c||Middle Rocket||457||172||Solid||-||1470||36||7020||610||-||70||210c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Mid-sized rocket launcher with balanced ammo stores and weight.
+|-
+! [[CR-WB78RP2]]
+| Crest||46800c||Middle Rocket||609||133||Solid||-||1520||40||7570||580||-||52||158c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Modified version of the WB75RP. Carries additional rounds.
+|-
+! [[CR-WB82RP3]]
+| Crest||64800c||Middle Rocket||727||152||Solid||-||1520||50||7570||580||-||48||158c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Mid-sized rocket launcher with increased ammo storage capacity.
+|-
+! [[WB13RO-SPHINX]]
+| Mirage||60000c||Triple Rocket||424||245||Solid||-||900||36||4580||678||-||77||145c||-||-||-||-||-||-||Shop|| style="text-align: left" |Simultaneously fires three rockets when activated.
+|-
+! [[WB23RO-CACUS]]
+| Mirage||50000c||Rocket (AST)||593||266||Solid||-||900||48||4580||678||-||88||145c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Fires a succession of three rockets when activated.
+|-
+! [[CR-WB85RPX]]
+| Crest||88800c||Large Rocket||806||98||Solid||-||3200||18||12750||500||-||91||345c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Large rocket launcher with exceptional firepower.
+|-
+! [[CR-WB69CG]]
+| Crest||50000c||Chaingun||542||515||Solid||Special||298||200||1722||366||1||4||48c||0||24||211||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Rapid-fire weapon. Most reload every 24 rounds
+|-
+! [[CR-WB72CGL]]
+| Crest||46000c||Chaingun||477||422||Solid||Special||195||300||1035||388||1||5||27||0||24||172||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Lightweight chain gun adapted to use smaller rounds.
+|-
+! [[CR-WB75SG]]
+| Crest||62300c||Slug Gun||1179||444||Solid||Special||172||60||2450||425||1||41||176c||0||2||198||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Back-mounted weapon. Rounds are dispersed in a wide spread.
+|-
+! [[CR-WB82SG2]]
+| Crest||56100c||Slug Gun||744||387||Solid||Special||172||40||2200||450||1||41||176c||0||2||198||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Lightweight slug gun, rounds are dispersed in a wide spread.
+|-
+! [[CR-WB87LG]]
+| Crest||100000c||Linear Gun||903||518||Solid||Special||1122||50||2962||485||1||52||31c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Back-mounted linear gun that uses solid round ammunition.
+|-
+! [[CR-WB91LGL]]
+| Crest||98800c||Linear Gun||450||367||Solid||Special||885||80||2718||524||1||48||31c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Reduced weight linear gun, Uses smaller rounds than the WB87LG.
+|-
+! [[WB14RG-LADON]]
+| Mirage||84000||Railgun||583||645||Energy||Narrow & Deep||1573||20||17900||1000||1||124||0c||2488||-||-||-||-||-||-||Shop|| style="text-align: left" |Fires high-speed energy rounds. Must charge before firing.
+|-
+! [[WB24RG-LADON2]]
+| Mirage||126000c||Railgun||892||813||Energy||Narrow & Deep||2017||15||21850||950||1||155||0c||4224||-||-||-||-||-||-||Shop|| style="text-align: left" |LADON successor. Modified for increased destructive potential.
+|-
+! [[CR-WB78GL]]
+| Crest||76200c||Grenade Launcher||1054||342||Solid||Narrow & Deep||3050||12||16220||875||1||205||710c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |High power grenade launcher. Round explode on impact.
+|-
+! [[CR-WB87GLL]]
+| Crest||64400c||Grenade Launcher||742||186||Solid||Narrow & Deep||2160||8||13900||780||1||28||470c||0||2||70||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Grenade launcher designed for smaller. lightweight AC units.
+|-
+! [[WB08PL-SKYLLA]]
+| Mirage||114200c||Plasma Cannon||988||804||Energy||Narrow & Deep||2999||16||19679||450||1||115||0c||7300||-||-||-||-||-||-||Shop|| style="text-align: left" |Plasma cannon. Launches highly destructive plasma bursts.
+|-
+! [[WB02L-GERYON]]
+| Mirage||78500c||Laser Cannon||852||405||Energy||Narrow & Deep||2005||28||13780||830||1||80||0c||5100||-||-||-||-||-||-||Shop|| style="text-align: left" |Early model laser cannon. Holds a large number of rounds.
+|-
+! [[WB15L-GERYON2]]
+| Mirage||86200c||Laser Cannon||385||924||Energy||Narrow & Deep||2530||12||15950||780||1||92||0c||6800||-||-||-||-||-||-||Shop|| style="text-align: left" |Reduced weight laser cannon designed for smaller AC units.
+|-
+! [[WB09PU-LAMIA]]
+| Mirage||82200c||Pulse Cannon||482||1118||Energy||Narrow & Deep||1080||64||6500||530||1||24||0c||2826||-||-||-||-||-||-||Shop|| style="text-align: left" |Kightweight, rapid-fire pulse cannon. Utilizes energy rounds.
+|-
+! [[WB16PU-LAMIA2]]
+| Mirage||105000c||Pulse Cannon||521||695||Energy||Narrow & Deep||780||60||5230||560||1||18||0c||2069||-||-||-||-||-||-||Shop|| style="text-align: left" |Modified LAMIA. Can fire rounds in even quicker succession.
+|-
+! [[WB25PU-LAMIA3]]
+| Mirage||17500c||Pulse Cannon||577||1305||Energy||Narrow & Deep||800||48||5870||490||1||34||0c||2321||-||-||-||-||-||-||Shop|| style="text-align: left" |Pulse cannon that fires a quick succession of three rounds.
+|-
+! [[WB26O-HARPY]]
+| Mirage||88000c||Orbit Cannon||527||495||Energy||Special||105||15||1015||500||3||160||0c||1600||-||-||-||-||-||-||Shop|| style="text-align: left" |Fires small autonomous weapon pods that seek out their target.
+|-
+! [[WB27O-HARPY2]]
+| Manufacturer||99000c||Orbit Cannon||727||533||Energy||Special||105||30||1015||500||3||160||0c||1600||-||-||-||-||-||-||Shop|| style="text-align: left" |Modified HARPY design with increased ammunition storage.
+|-
+! [[CR-WB69RA]]
+| Crest||-||Radar||125||199||-||-||-||-||-||-||-||-||-||-||-||-||102||700||Standard||8||None||None||-||-||-||Starting Part|| style="text-align: left" |Early model radar unit, limited functions, but lightweight.
+|-
+! [[CR-WB73RA2]]
+| Crest||14800c||Radar||157||266||-||-||-||-||-||-||-||-||-||-||-||-||155||480||Circle||16||None||Provided||-||-||-||Shop|| style="text-align: left" |Second generation radar design equipped with a bio-sensor.
+|-
+! [[WB03R-SIREN]]
+| Mirage||20000c||Radar||205||383||-||-||-||-||-||-||-||-||-||-||-||-||229||780||Octagon||1||None||Provided||-||-||-||Shop|| style="text-align: left" |Radar unit with an extremely short scanning interval.
+|-
+! [[WB10R-SIREN2]]
+| Mirage||30000c||Radar||237||430||-||-||-||-||-||-||-||-||-||-||-||-||300||890||Circle||5||None||Provided||-||-||-||Shop|| style="text-align: left" |Standard design with emphasis on range and VS ECM performance.
+|-
+! [[WB17R-SIREN3]]
+| Mirage||60000c||Radar||336||375||-||-||-||-||-||-||-||-||-||-||-||-||281||1160||Octagon||1||Provided||Provided||-||-||-||Shop|| style="text-align: left" |Radar unit with exceptional range and a short scanning interval.
+|-
+! [[CR-WB85RA3]]
+| Crest||27800c||Radar||178||241||-||-||-||-||-||-||-||-||-||-||-||-||184||600||Octagon||12||Provided||Provided||-||-||-||Shop|| style="text-align: left" |Lightweight Crest design equipped with multiple functions.
+|-
+! [[WB28R-SIREN4]]
+| Mirage||40000c||Radar||438||562||-||-||-||-||-||-||-||-||-||-||-||-||333||1400||Circle||3||Provided||Provided||-||-||-||Reward from [[Escort Transport Vehicle]](REV)/Complete the Run + Attack trainer(NB)|| style="text-align: left" |Heavy weight, but incorporates many high quality functions.
+|-
+! [[WB18M-CENTAUR]]
+| Mirage||140000c||Vertical Missile||1328||514||Solid||Standard||1190||40||5895||520||1||115||335c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Fires two vertical launch missile simultaneously.
+|-
+! [[CR-WBW89M]]
+| Crest||90000c||Dual Missile||1044||633||Solid||Standard||780||32||4320||550||1||115||205c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Dual missile launcher. Fires a total of 4 missiles per lock
+|-
+! [[CR-WBW94M2]]
+| Crest||138800c||Dual Missile||1395||833||Solid||Standard||780||60||4320||550||1||115||205c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Dual missile launcher with increased ammo storage capacity.
+|-
+! [[WB29M-ECHIDNA]]
+| Mirage||135000c||Pursuit Missile||1332||545||Solid||-||645||4||3660||600||-||200||1520c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Missile separates into a swarm of warheads after deployment.
+|-
+! [[CR-WBW78R]]
+| Crest||94700c||Dual Rocket||1003||312||Solid||-||820||60||4110||695||-||55||98c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Dual rocket launcher that fires a four shot spread.
+|-
+! [[CR-WBW91RT]]
+| Crest||99800||Triple Rocket||1136||388||Solid||-||820||60||4110||695||-||82||98c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Fires a six shot spread of rockets when activated.
+|-
+! [[CR-WBW78C]]
+| Crest||77700||Chaingun||1067||306||Solid||Standard||162||320||1188||385||1||6||27c||0||12||148||-||-||-||-||-||-||-||-||Shop|| style="text-align: left" |Dual back-mounted chain gun weapon system.
+|-
+! [[CR-WBW98G]]
+| Crest||99300c||Grenade Launcher||1242||565||Solid||Narrow & Deep||2400||24||13900||750||1||228||470c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Dual grenade launcher that fires two rounds in succession.
+|-
+! [[CR-WBW98LX]]
+| Crest||109000c||Laser Cannon||1292||1165||Energy||Narrow & Deep||5820||10||22500||710||1||136||0c||9400||-||-||-||-||-||-||Shop|| style="text-align: left" |Large aperture laser cannon with exceptional firepower.
+|-
+! [[WB30Q-CHIMERA]]
+| Mirage||77700c||Quartet Cannon||1556||875||Energy||Special||720||60||5754||670||1||96||0c||1770||-||-||-||-||-||-||Shop|| style="text-align: left" |Dual back-mounted laser cannon. Fires four shots simultaneously.
+|-
+! [[YASYA]]
+| Kisaragi||64000c||Orbit Cannon||1117||920||Energy||-||205||22||1380||420||-||240||0c||2400||-||-||-||-||-||-||Shop|| style="text-align: left" |Deploys autonomous weapon pods that seek out their target.
+|-
+! [[WB31B-PEGASUS]]
+| Mirage||-||Add Booster||1120||495||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||5000||1290||1520||Reward from [[Destroy Crest Exclusive AC]](NX)/Complete Overall: Single trainer (NB)|| style="text-align: left" |Supplemental boosters that work in concert with normal boosters.
+|}
+===Introduced in Armored Core: Nine Breaker===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Type!!Weight!!EN Drain!!Weapon Lock!!Attack Power!!Number of Ammo/Usage Limit!!Ammo Type!!Ammo Price!!Ammo Heat!!Range!!Maximum Lock!!Usage Drain!!Reload Time!!Recoil!!Ammo Added!!Radar Range!!Radar Type!!Sensor Interval||ECM Counter!!Noise Canceler!!Bio Sensor||Stealth Sensor!!Unlock!!Notes
+|-
+! [[SYAKATSURA]]
+| Kisaragi||-||Micro Missile||330||511||Solid||Standard||309||45||1200||700||1||130||315c||0||-||-||-||-||-||-||-||-||-||-||-||Complete 105 trainers (NB)|| style="text-align: left" |Fires a three shot salva of homing-enhanced micro missiles.
+|-
+! [[CR-WB03MV]]
+| Crest||-||Vertical Missile||670||431||Solid||Standard||1350||24||6120||440||4||95||275c||0||-||-||-||-||-||-||-||-||-||-||-||Get to Rank A in the Arena (NB)|| style="text-align: left" |Fires a wide spread of vertical launch missiles. 4 lock max.
+|-
+! [[WB34M-ECHIDNA2]]
+| Mirage||-||Pursuit Missile||891||411||Solid||-||-||2||3660||600||-||200||1520c||0||-||-||-||-||-||-||-||-||-||-||-||Get to rank 25 in the Arena (NB)|| style="text-align: left" |Reduced weight version of the original ECHIDNA model.
+|-
+! [[CR-WB03CGH]]
+| Crest||-||Chaingun||702||695||Solid||Special||340||240||1544||366||1||5||27c||-||24||154||-||-||-||-||-||-||-||-||-||Complete the entire Attack Trainer (NB)|| style="text-align: left" |Chain gun weapon system with improved attack power.
+|-
+! [[CR-WB03LGL2]]
+| Crest||-||Linear Gun||1029||567||Solid||Special||590||60||2026||485||1||42||31c||0||-||-||-||-||-||-||-||-||-||-||-||Get 30 Gold ranks (NB)|| style="text-align: left" |Linear gun model integrated with a 5 round magazine system.
+|-
+! [[WB33PL-SKYLLA2]]
+| Mirage||-||Plasma Cannon||688||443||Energy||Narrow & Deep||1877||10||14430||400||1||81||0c||3990||-||-||-||-||-||-||-||-||-||-||-||Get 105 Gold ranks (NB)|| style="text-align: left" |Weight reduced version of the original SKYLLA model.
+|-
+! [[WB32L-CERBERUS]]
+| Mirage||-||Dual Laser Cannon||1292||1165||Energy||Narrow & Deep||1488||20||10980||690||1||99||0c||4550||-||-||-||-||-||-||-||-||-||-||-||Complete the entire Technic trainer. (NB)|| style="text-align: left" |Laser cannon incorporating a twin barrel design.
+|}
+===Introduced in Armored Core: Last Raven===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Type!!Weight!!EN Drain!!Weapon Lock!!Attack Power!!Number of Ammo/Usage Limit!!Ammo Type!!Ammo Price!!Ammo Heat!!Range!!Maximum Lock!!Usage Drain!!Reload Time!!Recoil!!Ammo Added!!Radar Range!!Radar Type!!Sensor Interval||ECM Counter!!Noise Canceler!!Bio Sensor||Stealth Sensor!!Unlock!!Notes
+|-
+! [[CR-YWB05MV2]]
+| Crest||89000c||Vertical Missile||690||445||Solid||Standard||1050||20||4040||500||1||45||560c||0||-||-||-||-||-||-||-||-||-||-||-||Reward from [[Eliminate AC Intruder]]|| style="text-align: left" |Vertical missile launcher built to achieve improved accuracy.
+|-
+! [[YMB35L-GERYON3]]
+| Mirage||92600c||Laser Cannon||809||924||Energy||Narrow & Deep||4098||6||20020||710||1||122||0c||8260||-||-||-||-||-||-||-||-||-||-||-||Reward from [[Stop Last Assault Attempt]]|| style="text-align: left" |Laser cannon designed to induce high levels of thermal stress.
+|}
+=== Introduced in Armored Core: Last Raven Portable ===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Type!!Weight!!EN Drain!!Weapon Lock!!Attack Power!!Number of Ammo/Usage Limit!!Ammo Type!!Ammo Price!!Ammo Heat!!Range!!Maximum Lock!!Usage Drain!!Reload Time!!Recoil!!Ammo Added!!Radar Range!!Radar Type!!Sensor Interval||ECM Counter!!Noise Canceler!!Bio Sensor||Stealth Sensor!!Unlock!!Notes
+|-
+! [[CR-YWBW06MT]]
+| Crest||?||Triple Missile||1110||656||Solid||Standard||780||60||3888||500||1||115||205c||0||-||-||-||-||-||-||-||-||-||-||-||?|| style="text-align: left" |Shoulder-mounted twin launchers fires 6 missiles per lock.
+|}
+
+==Arm Unit R==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufactuerer!!Price!!Type!!Weight!!EN Drain!!Ammo Type!!Weapon Lock!!Attack Power!!Ammo!!Attack Heat!!Range!!Maximum Lock!!Firing Interval!!Ammo Price!!Usage Drain!!Mag Capacity!!Mag Reload!!Discharge Heat!!Range Rating!!Usage Limit!!Unlock!!Notes!!!!
+|-
+! [[CR-WR69R]]
+| Crest|| -||Rifle||365||106||Solid||Standard||280||120||1830||455||1||32||22c||0|| -|| -|| -||
+-|| -||Starting Part
+|-
+! [[CR-WR73R2]]
+| Crest||29100c||Rifle||416||123||Solid||Standard||280||140||1830||500||1||27||22c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Redesigned WR69R with improved range and ammo storage.
+|-
+! [[WR01R-SHADOW]]
+| Mirage||77000c||Rifle||535||100||Solid||Standard||303||180||2005||470||1||27||30c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Early Mirage design, heavy but with improved firepower.
+|-
+! [http://armoredcore.wikia.com/wiki/WR10R-MOLD WR1OR-MOLD]
+| Mirage||40000c||Rifle (AS)||440||118||Solid||Special||260||120||1770||445||1||23||20c||0||12||75|| -|| -|| -||Shop|| style="text-align: left" |Rapid-fire rifle manufactured by Mirage.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR76RA CR-WR76RA]
+| Crest||55800c||Rifle (AST)||652||165||Solid||Standard||242||150||1650||440||1||21||18c||0||8||70|| -|| -|| -||Shop|| style="text-align: left" |Special Crest design featuring rapid-fire capability.
+|-
+! [[CR-WR84RA2]]
+| Crest||56800c||Rifle (AST)||531||188||Solid||Standard||242||180||1650||420||1||19||18c||0||8||115|| -|| -|| -||Shop|| style="text-align: left" |Modified version of the WR76RA. Improved firing rate.
+|-
+! [[WH01R-GAST]]
+| Mirage||70000c||Rifle (AST)||465||153||Solid||Special||260||150||1770||445||1||20||20c||0||12||105|| -|| -|| -||Shop|| style="text-align: left" |Redesigned MOLD rifle with added ammunition capacity.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR88RB CR-WR88RB]
+| Crest||45800c||Rifle (AST)||471||265||Solid||Standard||242||150||1650||415||1||76||18c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Burst rifle, fires a succession of three rounds.
+|-
+! [http://armoredcore.wikia.com/wiki/WR14-PHANTOM?venotify=created WR14-PHANTOM]
+| Mirage||75000c||Rifle (AST)||441||235||Solid||Special||260||150||1770||435||1||70||20c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Mirage-manufactured burst rifle. Improved single shot damage.
+|-
+! [[CR-WR93RL]]
+| Crest||118000c||Linear Rifle||688||322||Solid||Standard||672||80||2200||450||1||55||31c||0|| -|| -|| -|| -|| -||Reward from [[Defend Submarine]](REV)/Complete No Lock-on trainer(NB)|| style="text-align: left" |High attack heat linear rifle equipped with a new mechanism.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR73RS CR-WR73RS]
+| Crest||65000c||Sniper Rifle||594||105||Solid||Narrow & Deep||728||36||3510||1190||1||52||95c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |High attack power sniper rifle with above average range.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR81RS2 CR-WR81RS2]
+| Crest||78000c||Sniper Rifle||633||118||Solid||Narrow & Deep||540||63||3118||730||1||44||57c||0|| -|| -|| -|| -|| -||Hidden in [[Attack OAC Expedition]](EVO)/Complete the No Radar trainer(NB)|| style="text-align: left" |Modified version of the WR73RS. Reduced firing interval.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR88RS3 CR-WR88RS3]
+| Crest||65000c||Sniper Rifle||710||165||Solid||Narrow & Deep||895||45||3980||765||1||68||72c||0|| -|| -|| -|| -|| -||Reward from [[Eliminate VIP]](NX)|| style="text-align: left" |Crest design sniper rifle emphasizing attack power.
+|-
+! [http://armoredcore.wikia.com/wiki/WH02RS-WYRM WH02RS-WYRM]
+| Mirage||70000c||Sniper Rifle||610||78||Solid||Narrow & Deep||820||60||3704||990||1||22||66c||0||2||93|| -|| -|| -||Shop|| style="text-align: left" |Sniper rifle that can be fired twice in quick succession.
+|-
+! [http://armoredcore.wikia.com/wiki/WR11RS-GARUM WR11RS-GARUM]
+| Mirage||Price||EN Sniper Rifle||513||757||Energy||Narrow & Deep||1100||32||3744||1000||1||148||0c||148|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Energy-based sniper rifle with excellent firepower.
+|-
+! [http://armoredcore.wikia.com/wiki/WR02M-PIXIE WR02M-PIXIE]
+| Mirage||16000c||Machine Gun||387||50||Solid||Wide & Shallow||77||240||312||287||1||4||14c||0||10||25|| -|| -|| -||Shop|| style="text-align: left" |Basic machine gun model enabling rapid bursts of fire.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR69M CR-WR69M]
+| Crest||Price||Machine Gun||472||89||Solid||Wide & Shallow||130||360||960||345||1||6||15c||0||12||62|| -|| -|| -||Shop|| style="text-align: left" |Crest designed machine gun with emphasis on attack power.
+|-
+! [http://armoredcore.wikia.com/wiki/WR04M-PIXIE2 WR04M-PIXIE2]
+| Mirage||58000c||Machine Gun||503||106||Solid||Wide & Shallow||105||1000||745||335||1||4||20c||0||10||35|| -||RangeRating|| -||Shop|| style="text-align: left" |Machine gun designed for extended battle encounters.
+|-
+! [http://armoredcore.wikia.com/wiki/WR07M-PIXIE3 WR07M-PIXIE3]
+| Mirage||43000c||Machine Gun||360||121||Solid||Wide & Shallow||105||800||745||363||1||4||20c||0||12||48|| -|| -|| -||Shop|| style="text-align: left" |Weight reduced version of the PIXIE2 machine gun model.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WH79M2 CR-WH79M2]
+| Crest||44800c||Machine Gun||568||61||Solid||Wide & Shallow||240||160||1830||380||1||5||22c||0||10||82|| -|| -|| -||Shop|| style="text-align: left" |Machine gun with attack power and heat comparable to a rifle.
+|-
+! [http://armoredcore.wikia.com/wiki/WH03M-FINGER WH03M-FINGER]
+| Mirage||42000c||Machine Gun||202||241||Solid||Special||77||240||312||262||1||5||14c||0|| -|| -|| -|| -|| -||Reward from [[Training Exercise VS AC]](NX)/Complete Spacing trainer(NB)|| style="text-align: left" |Specially designed nulti-barrel machine gun.
+|-
+! [http://armoredcore.wikia.com/wiki/WH05M-SYLPH WH05M-SYLPH]
+| Mirage||65000c||Machine Gun||259||128||Solid||Wide & Shallow||154||180||1059||250||1||6||30c||0||8||45|| -|| -|| -||Shop|| style="text-align: left" |Small sized machine gun model designed for portability.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR88H CR-WR88H]
+| Crest||27700||Handgun||170||128||Solid||Wide & Shallow||205||80||2550||195||1||16||42c||0||8||135|| -|| -|| -||Shop|| style="text-align: left" |Powerful handgun requiring a reload after every eight shots
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WH69H CR-WH69H]
+| Crest||21800c||Handgun||146||98||Solid||Wide & Shallow||260||72||2710||220||1||14||32||0||6||70|| -|| -|| -||Shop|| style="text-align: left" |Lightweight handgun that can be equipped as a hanger unit.
+|-
+! [[CR-WH73H2]]
+| Crest||28000c||Handgun||267||78||Solid||Wide & Shallow||260||70||2710||258||1||33||32c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Handgun design with improved firing range.
+|-
+! [[WR03H-GHOST]]
+| Mirage||30000c||Handgun||184||60||Solid||Wide & Shallow||315||60||2980||210||1||29||40c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |handgun design addressing attack power and heat.
+|-
+! [[CR-WH79H3]]
+| Crest||34800c||Handgun||298||305||Solid||Wide & Shallow||190||110||4860||228||1||17||61c||0||10||120|| -|| -|| -||Shop|| style="text-align: left" |Handgun model with significantly enhanced ammo storage.
+|-
+! [http://armoredcore.wikia.com/wiki/WR06H-GHOST2 WR06H-GHOST2]
+| Mirage||40000c||Handgun||235||106||Solid||Wide & Shallow||217||96||2590||240||1||11||30c||0||12||85|| -|| -|| -||Shop|| style="text-align: left" |Large model handgun with an excellent firing rate.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR76B CR-WR76B]
+| Crest||53300c||Bazooka||804||36||Solid||Special||1400||30||6520||387||1||78||250c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Bazooka that can dish out impressive single round damage.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR81B2 CR-WR81B2]
+| Crest||71000c||Bazooka||945||58||Solid||Special||2240||20||8093||435||1||93||315c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Modified WR76B. Improved attack power and heat.
+|-
+|[[CR-WR93B3]]
+| Crest||88000c||Bazooka||775||49||Solid||Special||1020||40||5302||510||1||65||275c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Lightweight bazooka with ample ammunition stories.
+|-
+! [[WR13B-GIANT]]
+| Mirage||72000c||Spread Bazooka||1020||79||Solid||Special||560||25||3891||340||1||67||500c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Simultaneous three shot feature enables a better hit ratio.
+|-
+! [http://armoredcore.wikia.com/wiki/WR17B-GIANT2 WR17B-GIANT2]
+| Mirage||61000c||Spread Bazooka||824||102||Solid||Special||560||25||3891||365||1||81||380c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Fires rounds that spread out just as they reach their target.
+|-
+! [[CR-WR84S]]
+| Crest||63100c||Shotgun||533||82||Solid||Standard||188||56||896||380||1||34||135c|| -||2||120|| -|| -|| -||Shop|| style="text-align: left" |Limited range, but good close-in damage potential.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WH76S CR-WH76S]
+| Crest||32800c||Shotgun||410||64||Solid||Standard||142||72||662||405||1||30||98||0||2||102|| -|| -|| -||Shop|| style="text-align: left" |Shotgun designed for use in close-quarters fighting.
+|-
+! [http://armoredcore.wikia.com/wiki/WR1SS-WYVERN WR15S-WYVERN]
+| Mirage||73000c||Energy Shotgun||580||367||Energy||Special||212||50||1186||420||1||41||0c||1798|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Shotgun design that utilizes energy rounds instead of solid.
+|-
+! [[WR23S-WYVERN2]]
+| Mirage||84000c||Energy Shotgun||635||398||Energy||Special||165||70||910||395||1||48||0c||1352|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Redesigned WYVERN shotgun. Improved ammo capacity.
+|-
+! [[GACHRIN|GACHIRIN]]
+| Kisaragi||62700c||Flamethrower||531||355||Solid|| -||26||600||2794||96||None||3||10c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Envelops a target in flames when deployed.
+|-
+! [http://armoredcore.wikia.com/wiki/NICHIRIN NICHIRIN]
+| Kisaragi||54200c||Flamethrower||707||427||Solid||None||21||450||3173||96|| -||3||12c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Attack heat enhanced version of the GACHIRIN.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR84HNM CR-WR84HNM]
+| Crest||45800c||Hand Missile||715||349||Solid||Standard||780||32||4320||445||4||60||205c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Arm-mounted missile launcher with a max lock of four.
+|-
+! [[CR-WR84HNR]]
+| Crest||48800c||Hand Rocket||558||72||Solid||None||1520||50||7570||580|| -||30||158c||0||2||115|| -|| -|| -||Shop|| style="text-align: left" |Arm-mounted rocket launcher that fires mid-sized rounds.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR93HRNP CR-WR93HRNP]
+| Crest||48800c||Hand Large Rocket||715||118||Solid|| -||3200||10||12750||500|| -||127||345c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Arm-mounted rocket launcher that fires large rounds.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR81G CR-WR81G]
+| Crest||85000c||Grenade Rifle||962||225||Solid||Narrow & Deep||2400||15||15290||730||1||110||470c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Arm-mounted grenade rifle with devastating attack heat.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WR88G2 CR-WR88G2]
+| Crest||70000c||Grenade Rifle||632||170||Solid||Narrow & Deep||1520||24||9163||680||1||95||332c||0|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Lightweight version of the WR81G grenade rifle.
+|-
+! [[CR-WH98GL]]
+| Crest||32000c||Grenade Launcher||317||106||Solid||Narrow & Deep||1520||6||9163||670||1||126||332c||0|| -|| -|| -|| -|| -||Hidden in [[Attack Mirage Search Team]](NX)/Complete Aerial Move trainer (NB)|| style="text-align: left" |Small grenade rifle designed to be stored as a hanger unit.
+|-
+! [[WR08PU-ROC]]
+| Mirage||44000c||Pulse Rifle||193||256||Energy||Special||352||60||2788||395||1||35||0c||976|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Energy-based pulse rifle designed for easy storage.
+|-
+! [[WR12PU-ROC2]]
+| Mirage||46000c||Pulse Rifle||289||357||Energy||Special||308||78||2472||425||1||28||0c||1122|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Latest model pulse rifle offering improved ammo capacity.
+|-
+! [http://armoredcore.wikia.com/wiki/WR21PU-ROC3 WR21PU-ROC3]
+| Mirage||63000c||Pulse Rifle||355||522||Energy||Special||454||60||3640||380||1||30||0c||1419|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Pulse rifle with significantly enchanced attack power.
+|-
+! [[WR18PU-DEMON]]
+| Mirage||95000c||Dual Pulse Rifle||376||515||Energy||Special||383||78||3155||505||1||47||0c||1239|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Ulse rifle that deploys two energy rounds per firing.
+|-
+! [http://armoredcore.wikia.com/wiki/WR05L-SHADE WR05L-SHADE]
+| Mirage||59000c||Laser Rifle||588||398||Energy||Special||694||80||5208||500||1||51||0c||1900|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Fires a focused beam of laser energy at the intended target.
+|-
+! [http://armoredcore.wikia.com/wiki/WR19SL-HOLLOW WR19SL-HOLLOW]
+| Mirage||60000c||Laser Rifle||1120||306||Energy||Special||489||86||3860||520||1||33||0c||1562|| -|| -|| -|| -||UsageLimit||Shop|| style="text-align: left" |Rapid-fire rifle with adequate ammunition stores.
+|-
+! [[CR-WR98L]]
+| Crest||76000c||Laser Rifle||615||688||Energy||Special||597||36||4700||470||1||46||0c||2325|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Crest-manufactured laser rifle that fires high velocity rounds.
+|-
+! [[YWH07-DRAGON]]
+| Mirage||85000c||Laser Rifle||461||188||Energy||Standard||389||68||2872||520||1||55||0c||1107|| -|| -|| -|| -|| -||Reward from [[Capture Mining Platform]](REV)/Complete the Hit: Melee Trainer (NB)|| style="text-align: left" |Test model designed for use in mobile combat engagements.
+|-
+! [[WR24L-SHADE2]]
+| Mirage||122000c||Laser Rifle||677||598||Energy||Special||924||54||6150||515||1||55||0c||4168|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Redesigned SHADE model sporting improved firepower.
+|-
+! [http://armoredcore.wikia.com/wiki/WR16DL-SKULL WR16DL-SKULL]
+| Mirage||63000c||Dual Laser Rifle||995||779||Energy||Special||489||88||3860||610||1||45||0c||1719|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Laser rifle that discharges two simultaneous shots when fired.
+|-
+! [http://armoredcore.wikia.com/wiki/WR25DL-SKULL2 WR25DL-SKULL2]
+| Mirage||61000c||Dual Laser Rifle||702||842||Energy||Special||565||56||4440||670||1||52||0c||2146|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Reduced weight version of the original SKULL model.
+|-
+! [[WH04HL-KRSW]]
+| Mirage||88000c||Hi Laser Rifle||1400||722||Energy||Special||1400||30||9000||550||1||72||0c||4462|| -|| -|| -|| -|| -||Reward from [[Prototype Performance Test]](REV)/Complete Overall: Melee trainer (NB)|| style="text-align: left" |Laser rifle that is both a work of art, and deadly.
+|-
+! [[WR09HL-SPIRIT]]
+| Mirage||90000c||Hi Laser Rifle||1238||815||Energy||Special||1550||48||9860||565||1||80||0c||4672|| -|| -|| -|| -||UsageLimit||Shop|| style="text-align: left" |Laser rifle with devastating attack performnace.
+|-
+! [[WR20PL-OGRE]]
+| Mirage||120000c||Plasma Rifle||1155||656||Energy||Special||2520||16||8240||610||1||81||0c||8909|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Plasma rifle capable of inducing high levels of thermal stress.
+|-
+! [[WR22PL-OGRE2]]
+| Mirage||93000c||Plasma Rifle||899||560||Energy||Special||1988||20||13100||450||1||66||0c||6636|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Plasma rifle with improved attack heat and ammo storage.
+|-
+! [[WH06PL-ORC]]
+| Mirage||42000c||Plasma Rifle||376||315||Energy||Special||1988||5||13100||420||1||91||0c||5460|| -|| -|| -|| -|| -||Shop|| style="text-align: left" |Minaturized plasma rifle design. Storage capable.
+|-
+! [http://armoredcore.wikia.com/wiki/RASETSU?venotify=created RASETSU]
+| Kisaragi||38600c||Blade||238||13|| -|| -||2270|| -||8700|| -|| -|| -||320c||0|| -|| -||1355||6||20||Shop|| style="text-align: left" |Parrying blade with excellent offensive ratings.
+|-
+! [[ENMA]]
+| Kisaragi||42300c||Blade||376||24|| -|| -||3100|| -||13550|| -|| -|| -||415c||0|| -|| -||3625||5||10||Shop|| style="text-align: left" |Parrying blade with further enhanced offensive properties.
+|-
+! [[NIOH]]
+| Kisaragi||44400||Blade||335||8|| -|| -||4500|| -||16300|| -|| -|| -||500c||0|| -|| -||7250||7||4||Hidden in [[Attack Headquarters]](REV)|| style="text-align: left" |Devastating single hit damage potential.
+|}
+
+===Introduced in Armored Core: Nine Breaker===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufactuerer!!Price!!Type!!Price!!Weight!!EN Drain!!Ammo Type!!Weapon Lock!!Attack Power!!Ammo!!Attack Heat!!Range!!Maximum Lock!!Firing Interval!!Ammo Price!!Usage Drain!!Mag Capacity!!Mag Reload!!Discharge Heat!!Range Rating!!Ammo Price!!Usage Limit!!Unlock!!Notes
+|-
+! [[WH08RS-FENRIR]]
+| Mirage||Price||EN Sniper Rifle||1380||118||Energy||Narrow & Deep||2400||10||13100||1190||1||225||0c||5166||-||-||-||-||-||Get 90 Gold ranks (NB)|| style="text-align: left" |Energy-based sniper rifle with devastating single-shot power.
+|-
+! [[WH10M-SILKY]]
+| Mirage||Price||EN Machinegun||598||446||Energy||Wide & Shallow||168||180||1303||290||1||10||0c||1849||-||-||-||-||-||Clear entire defense trainer (NB)|| style="text-align: left" |Machine gun designed to fire high charged energy rounds.
+|-
+! [[CR-WH01HP]]
+| Crest||Price||Handgun||142||89||Solid||Wide & Shallow||360||42||2710||254||1||14||40c||0||6||80||-||-||-||Get to B Class: Win the fight after 4,500 points(NB)|| style="text-align: left" |Storable handgun with firepower equivalent to that of a rifle.
+|-
+! [[WH09H-WRAITH]]
+| Mirage||Price||Handgun||139||99||Solid||Wide & Shallow||210||64||2980||215||1||12||40c||0||8||60||-||-||-||Get 45 Gold ranks (NB)|| style="text-align: left" |Storage capable handgun with enhanced firing speed.
+|-
+! [[WH11PU-PERYTON]]
+| Mirage||Price||Pulse Rifle||144||231||Energy||Special||399||30||3021||310||1||18||0c||820||-||-||-||-||-||Clear the entire Move trainer (NB)|| style="text-align: left" |Weapon's small size belies its close-in damage potential.
+|-
+! [[WH12PL-ETTIN]]
+| Mirage||Price||Dual Plasma Rifle||1532||912||Energy||Special||2140||14||6310||460||1||116||0c||7690||-||-||-||-||-||Get 15 Gold Ranks (NB)|| style="text-align: left" |Releases a dual burst of high-energy plasma when fired.
+|-
+! [[CR-WH05BP]]
+| Crest||Price||Bazooka||1210||64||Solid||Special||1630||40||7230||480||1||72||275c||0||-||-||-||-||-||Clear entire Overall trainer (NB)|| style="text-align: left" |Part's weight is offset by ammo capacity and damage potential.
+|-
+! [[CR-WH01SP]]
+| Crest||Price||Shotgun||691||92||Solid||Standard||260||56||720||360||1||36||98c||0||2||126||-||-||-||Get to rank 15 in the Arena (NB)|| style="text-align: left" |Close-range shotgun equipped with heavy alloy rounds.
+|}
+===Introduced in Armored Core: Last Raven===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufactuerer!!Price!!Type!!Price!!Weight!!EN Drain!!Ammo Type!!Weapon Lock!!Attack Power!!Ammo!!Attack Heat!!Range!!Maximum Lock!!Firing Interval!!Ammo Price!!Usage Drain!!Mag Capacity!!Mag Reload!!Discharge Heat!!Range Rating!!Ammo Price!!Usage Limit!!Unlock!!Notes
+|-
+! [[CR-YWH05R3]]
+| Crest||42000c||Rifle||403||139||Solid||Standard||280||100||1420||480||1||25||22c||0||-||-||-||-||-||Kill No. 2448/Crow Predator (21st) in the Arena|| style="text-align: left" |Test model addressing firing performance and attack power.
+|-
+! [[YWH13M-NIX]]
+| Mirage||56000c||Machine Gun||410||109||Solid||Wide & Shallow||97||360||303||330||1||2||24c||0||24||110||-||-||-||Reward from [[Eliminate Sorcerer]]|| style="text-align: left" |Machine gun designed to inflict impressive close-range damage.
+|-
+! [[YWH14PU-ROC4]]
+| Mirage||80000c||Pulse Rifle||348||489||Energy||Special||550||96||4000||250||1||32||0c||989||-||-||-||-||-||Shop|| style="text-align: left" |Pulse rifle model with exceptional ammunition storage.
+Found -------------- Reward in "Eliminate Zinaida"
+|-
+! [[YWH16HR-PYTHON]]
+| Mirage||150000c||Hand Railgun||500||600||Energy||Special||729||40||6860||580||1||55||0c||2978||-||-||-||-||-||Reward from [[Destroy The Internecine]]|| style="text-align: left" |Miniaturized rail gun designed to be equipped on an AC's arm.
+|}
+=== Introduced in Armored Core: Last Raven Portable ===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufactuerer!!Price!!Type!!Price!!Weight!!EN Drain!!Ammo Type!!Weapon Lock!!Attack Power!!Ammo!!Attack Heat!!Range!!Maximum Lock!!Firing Interval!!Ammo Price!!Usage Drain!!Mag Capacity!!Mag Reload!!Discharge Heat!!Range Rating!!Ammo Price!!Usage Limit!!Unlock!!Notes
+|-
+! [[YWH03RS-SKOLL]]
+| Mirage||-||EN Sniper Rifle||428||146||Energy||Narrow & Deep||982||20||2960||910||1||168||0c||3024||-||-||-||-||-||Hidden in [[Help Allied MT Escape]]|| style="text-align: left" |Energy-based sniper rifle designed for high-velocity fire.
+|-
+! [[CR-YWR03HNR]]
+| Crest||-||Hand Rocket||495||54||Solid||-||1520||36||6813||580||-||44||158c||0||-||-||-||-||-||Hidden in [[Destroy The Bridge]]|| style="text-align: left" |Arm-mounted rapid fire rocket launcher for mid-sized rounds.
+|}
+
+==Arm Unit L==
+===Introduced in Armored Core: Nexus===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Type!!Weight!!EN Drain!!Attack Power!!Discharge Heat!!Attack Heat!!Range Rating!!Wave Rating!!Ammo Type!!Weapon Lock!!Ammo!!Range!!Maximum Lock!!Firing Interval!!Ammo Price!!Usage Drain!!Mag Capacity!!Mag Reload!!Def Shell!!Def Energy!!Shield Coverage!!Heat Insulation!!Unlock!!Notes
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WL69LB CR-WL69LB]
+| Crest||-||Laser Blade||122||85||641||895||2402||8||-||-||-||-||-||-||-||-||-||3690||-||-||-||-||-||-||-||-||-||-||-||-||Starting Part|| style="text-align: left" |Basic model laser blade meant for use in close-range combat.
+|-
+! [http://armoredcore.wikia.com/wiki/WL01LB-ELF WL01LB-ELF]
+| Mirage||29000c||Laser Blade||188||102||795||612||2978||9||-||-||-||-||-||-||-||-||-||3240||-||-||-||-||-||-||Shop|| style="text-align: left" |Early model Mirage design with average performance specs.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WL79LB2 CR-WL79LB2]
+| Crest||38000c||Laser Blade||225||111||1016||1004||3808||8||-||-||-||-||-||-||-||-||-||4752||-||-||-||-||-||-||Shop|| style="text-align: left" |Modified WL69LB. Offensive stats significantly improved.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WL88LB3 CR-WL88LB3]
+| Crest||43000c||Laser Blade||386||128||1886||1148||7064||5||-||-||-||-||-||-||-||-||-||6426||-||-||-||-||-||-||Shop|| style="text-align: left" |Short range weapon with an excellent attack heat rating.
+|-
+! [[YWL03LB-TAROS]]
+| Mirage||83000c||Laser Blade||447||305||1486||612||1486||10||-||-||-||-||-||-||-||-||-||7104||-||-||-||-||-||-||Reward from [[Shutdown Control System]](REV)/Complete Total Mobility trainer(NB)|| style="text-align: left" |Trial manufactured part designed with dual laser openings.
+|-
+! [[WL14LB-ELF2]]
+| Mirage||54000c||Laser Blade||154||57||856||981||3132||14||-||-||-||-||-||-||-||-||-||4176||-||-||-||-||-||-||Shop|| style="text-align: left" |Long laser housing specifically designed to improve blade range.
+|-
+! [[WL-MOONLIGHT]]
+| Mirage||55200c||Laser Blade||502||357||1722||2048||6450||8||-||-||-||-||-||-||-||-||-||8724||-||-||-||-||-||-||Reward from [[Confrontation]](REV)|| style="text-align: left" |Highly irregular stat values, but has tremendous attack power.
+|-
+! [[FUHJIN]]
+| Kisaragi||50000c||Laser Blade||250||244||1245||1423||4668||-||520||-||-||-||-||-||-||-||-||4240||-||-||-||-||-||-||Shop|| style="text-align: left" |Specialized blade design enables an energy wave discharge.
+|-
+! [http://armoredcore.wikia.com/wiki/RAIJIN RAIJIN]
+| Kisaragi||70000c||Laser Blade||283||276||1664||1815||6204||-||280||-||-||-||-||-||-||-||-||6410||-||-||-||-||-||-||Hidden in [[Safeguard Escape Route]](NX)/Complete Evade SP Missiles trainer(NB)|| style="text-align: left" |Modified FUHJIN design featuring enhanced attack power.
+|-
+! [http://armoredcore.wikia.com/wiki/WL02R-SPECTER WL02R-SPECTER]
+| Mirage||25000c||Rifle||553||95||303||-||2005||-||-||Solid||Standard||100||450||1||42||30c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Standard quality rifle exclusive to the left arm.
+|-
+! [http://armoredcore.wikia.com/wiki/HITEN HITEN]
+| Kisaragi||52700c||Rifle (AST)||612||77||218||-||1600||-||-||Solid||Standard||120||410||1||20||33c||0||6||77||-||-||-||-||-||Shop|| style="text-align: left" |Rapid-fire rifle exclusive to the left arm.
+|-
+! [[WH01R-GAST]]
+| Mirage||70000c||Rifle (AST)||465||153||260||-||1770||-||-||Solid||Special||150||445||1||20||20c||0||12||105||-||-||-||-||-||Shop|| style="text-align: left" |Redesigned MOLD rifle with added ammunition capacity.
+|-
+! [[WL05RS-GOLEM]]
+| Mirage||50000c||Sniper Rifle||415||195||820||-||3704||-||-||Solid||Narrow & Deep||36||900||1||68||66c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Well-balanced sniper rifle exclusive to the left arm.
+|-
+! [[CR-WL85RS]]
+| Crest||55700c||Sniper Rifle||313||106||728||-||3980||-||-||Solid||Narrow & Deep||30||765||1||57||72c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Lightweight sniper rifle exclusive to the left arm.
+|-
+! [http://armoredcore.wikia.com/wiki/WH02RS-WYRM WH02RS-WYRM]
+| Mirage||70000c||Sniper Rifle||610||78||Solid||-||3704||-||-||Solid||Narrow & Deep||60||970||1||24||66c||0||2||95||-||-||-||-||-||Shop|| style="text-align: left" |Sniper rifle that can be fired twice in quick succession.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WL74M CR-WL74M]
+| Crest||52500c||Machine Gun||404||55||162||-||1188||-||-||Solid||Wide & Shallow||150||305||1||6||27c||0||10||70||-||-||-||-||-||Shop|| style="text-align: left" |High attack power machine gun exclusive to the left arm.
+|-
+! [http://armoredcore.wikia.com/wiki/WL06M-FAIRY WL06M-FAIRY]
+| Mirage||15000c||Machine Gun||339||48||77||-||312||-||-||Solid||Wide & Shallow||220||287||1||4||14c||0||10||28||-||-||-||-||-||Shop|| style="text-align: left" |Small sized machine gun exclusive to the left arm.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WH79M2 CR-WH79M2]
+| Crest||44800c||Machine Gun||Weight||ENDrain||AttackPower||-||AttackHeat||-||-||Solid||Wide & Shallow||160||380||1||5||22c||0||10||82||-||-||-||-||-||Shop|| style="text-align: left" |Machine gun with attack power and heat comparable to a rifle.
+|-
+! [http://armoredcore.wikia.com/wiki/WH03M-FINGER WH03M-FINGER]
+| Mirage||42000c||Machine Gun||202||241||77||-||312||-||-||Solid||Special||240||262||1||5||14c||0||-||-||-||-||-||-||Reward from [[Protect Gun Emplacements]](REV)|| style="text-align: left" |Specially designed nulti-barrel machine gun.
+|-
+! [http://armoredcore.wikia.com/wiki/WH05M-SYLPH WH05M-SYLPH]
+| Mirage||65000c||Machine Gun||259||128||154||-||1059||-||-||Solid||Wide & Shallow||180||250||1||6||30c||0||8||45||-||-||-||-||-||Shop|| style="text-align: left" |Small sized machine gun model designed for portability.
+|-
+! [[CR-WH69H]]
+| Crest||21800c||Handgun||146||98||260||-||2710||-||-||Solid||Wide & Shallow||72||220||1||14||32c||0||6||70||-||-||-||-||Reward from [[New MT Performance Test]](EVO)|| style="text-align: left" |Lightweight handgun that can be equipped as a hanger unit.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WH73H2 CR-WH73H2]
+| Crest||28000c||Handgun||267||78||260||-||2710||-||-||Solid||Wide & Shallow||70||258||1||33||32c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Handgun design with improved firing range.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WH79H3 CR-WH79H3]
+| Crest||34800c||Handgun||298||305||190||-||4860||-||-||Solid||Wide & Shallow||110||228||1||17||61c||0||10||120||-||-||-||-||-||Shop|| style="text-align: left" |Handgun model with significantly enhanced ammo storage.
+|-
+! [http://armoredcore.wikia.com/wiki/WL07H-MIST WL07H-MIST]
+| Mirage||35500c||Handgun||204||44||315||-||2980||-||-||Solid||Wide & Shallow||60||220||1||35||40c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |High attack power handgun exclusive to the left arm.
+|-
+! [http://armoredcore.wikia.com/wiki/WL10H-MIST2 WL10H-MIST2]
+| Mirage||41000c||Handgun||174||119||217||-||2590||-||-||Solid||Special||72||232||1||20||30c||0||12||140||-||-||-||-||-||Shop|| style="text-align: left" |Rapid-fire handgun exclusive to the left arm.
+|-
+! [[CR-WL95B]]
+| Crest||43300c||Bazooka||855||76||1400||-||6520||-||-||Solid||Special||20||364||1||102||250c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Standard quality bazooka exclusive to the left arm.
+|-
+! [[WL11B-TROLL]]
+| Mirage||61000c||Spread Bazooka||770||95||560||-||3891||-||-||Solid||Special||20||342||1||90||380c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Spread shot bazooka exclusive to the left arm.
+|-
+! [[CR-WL85S]]
+| Crest||34000c||Shotgun||505||72||129||-||587||-||-||Solid||Standard||72||365||1||38||110||0||3||110||-||-||-||-||-||Shop|| style="text-align: left" |Lightweight shotgun exclusive to the left arm.
+|-
+! [[CR-WL88S2]]
+| Crest||59100c||Shotgun||325||85||188||-||815||-||-||Solid||Standard||56||380||1||35||135c||0||2||120||-||-||-||-||-||Shop|| style="text-align: left" |High attack power shotgun exclusive to the left arm.
+|-
+! [[CR-WH76S]]
+| Crest||32800c||Shotgun||410||64||142||-||662||-||-||Solid||Standard||72||405||1||30||98c||0||2||102||-||-||-||-||-||Shop|| style="text-align: left" |Shotgun designed for use in close-quarters fighting.
+|-
+! [[NICHIRIN]]
+| Kisaragi||54200c||Flamethrower||707||427||21||-||3173||-||-||Solid||None||450||96||-||3||12c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Attack heat enhanced version of the GACHIRIN.
+|-
+! [[CR-WL79HNM]]
+| Crest||35000c||Hand Missile||453||373||765||-||4515||-||-||Solid||Standard||24||450||1||60||220c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |High velocity missile launcher exclusive to the left arm.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WL95G CR-WL95G]
+| Crest||43500c||Grenade Rifle||472||202||1016||-||7155||-||-||Solid||Narrow & Deep||24||590||1||90||252c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Portable grenade rifle exclusive to the left arm.
+|-
+! [http://armoredcore.wikia.com/wiki/CR-WH98GL CR-WH98GL]
+| Crest||32000c||Grenade Rifle||317||106||1528||-||9163||-||-||Solid||Narrow & Deep||6||670||1||126||332c||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Small grenade rifle designed to be stored as a hanger unit.
+|-
+! [[CR-WL88HNR]]
+| Crest||40000c||Hand Rocket||458||65||1470||-||7415||-||-||Solid||None||24||610||-||28||170c||0||2||135||-||-||-||-||-||Shop|| style="text-align: left" |Arm-mounted rocket launcher exclusive to the left arm.
+|-
+! [[CR-WL95HNNR]]
+| Crest||57000c||Hand Napalm Rocket||605||312||168||-||9330||-||-||Solid||None||30||425||-||75||205||0||-||-||-||-||-||-||Shop|| style="text-align: left" |Naplam rocket launcher exclusive to the left arm.
+|-
+! [[WL08PU-ARGOS]]
+| Mirage||60000c||Pulse Rifle||242||299||383||-||3155||-||-||Energy||Special||60||507||1||40||0c||1370||-||-||-||-||-||-||Shop|| style="text-align: left" |Lightweight pulse rifle exclusive to the left arm.
+|-
+! [[WL12PU-ARGOS2]]
+| Mirage||48000c||Pulse Rifle||408||245||464||-||3708||-||-||Energy||Special||48||402||1||44||0c||1621||-||-||-||-||-||-||Shop|| style="text-align: left" |High attack power pulse rifle exclusive to the left arm.
+|-
+! [[YWH07-DRAGON]]
+| Mirage||85000c||Laser Rifle||461||168||389||-||2872||-||-||Energy||Standard||68||520||1||55||0c||1107||-||-||-||-||-||-||Reward from [[Escort Phantasma Transport]](REV)/Clear Defense Trainer(NB)|| style="text-align: left" |Test model designed for us in mobile combat engagements.
+|-
+! [[WL13L-GORGON]]
+| Mirage||51000c||Laser Rifle||635||308||740||-||48||-||-||Energy||Special||48||717||1||67||0c||1920||-||-||-||-||-||-||Shop|| style="text-align: left" |Long-range laser rifle exclusive to the left arm.
+|-
+! [[WL15L-GRIFFON]]
+| Mirage||61000c||Dual Laser Rifle||408||522||475||-||3860||-||-||Energy||Special||40||570||1||58||0c||1714||-||-||-||-||-||-||Shop|| style="text-align: left" |Lightweight, dual shot laser rifle exclusive to the left arm.
+|-
+! [[WH04HL-KRSW]]
+| Mirage||88000c||Hi Laser Rifle||1400||722||1440||-||9000||-||-||Energy||Special||30||550||1||72||0c||72||-||-||-||-||-||-||Reward from [[Prevent Weapon Activation]](EVO)/Complete Overall: Melee trainer(NB)|| style="text-align: left" |Laser rifle that is both a work of art, and deadly.
+|-
+! [[WH06PL-ORC]]
+| Mirage||42000c||Plasma Rifle||376||315||1988||-||13100||-||-||Energy||Special||5||420||1||91||0c||5460||-||-||-||-||-||-||-||Hidden in [[Destroy Fuel Depot]](REV)/Clear Defense Trainer(NB)|| style="text-align: left" |Minaturized plasma rifle design. Storage capable.
+|-
+! [[CR-WL74ES]]
+| Crest||15500c||Energy Shield||133||17||-||-||-||-||-||-||-||-||-||-||-||-||697||-||-||21||150||72||1723||Shop|| style="text-align: left" |Energy shield that reduces the damage inflicted when attacked.
+|-
+!  [[CR-WL85ES2]]
+| Crest||18400c||Energy Shield||180||45||-||-||-||-||-||-||-||-||-||-||-||-||889||-||-||18||190||72||2564||Shop|| style="text-align: left" |Energy defense improved version of the WL74ES energy shield.
+|-
+! [[WL04-ES-GIGAS|WL04ES-GIGAS]]
+| Mirage||30000c||Energy Shield||224||62||-||-||-||-||-||-||-||-||-||-||-||-||1192||-||-||50||205||93||3554||Shop|| style="text-align: left" |Good deployment range and defense stats.
+|-
+! [[BONTEN]]
+| Kisaragi||55000c||Energy Shield||350||118||-||-||-||-||-||-||-||-||-||-||-||-||1339||-||-||65||410||68||3865||Shop|| style="text-align: left" |Energy shield with exceptional energy defense stats.
+|-
+! [[WL09ES-GIGAS2]]
+| Mirage||55000c||Energy Shield||277||95||-||-||-||-||-||-||-||-||-||-||-||-||1509||-||-||85||315||98||5384||Shop|| style="text-align: left" |Modified GIGAS with significantly enhanced heat insulation.
+|-
+! [[KATEN]]
+| Kisaragi||15000c||Shield||336||6||-||-||-||-||-||-||-||-||-||-||-||-||0||-||-||110||8||72||860||Shop|| style="text-align: left" |Good solid round shielding, no energy consumption when deployed.
+|-
+! [[SUITEN]]
+| Kisaragi||44000c||Shield||415||10||-||-||-||-||-||-||-||-||-||-||-||-||0||-||-||185||35||90||1515||Shop|| style="text-align: left" |Modified KATEN design with enhanced solid round defense.
+|-
+! [http://armoredcore.wikia.com/wiki/JITEN JITEN]
+| Kisaragi||28000c||Shield||593||8||-||-||-||-||-||-||-||-||-||-||-||-||0||-||-||220||12||84||1036||Reward from [[Missile Performance Test]](EVO)|| style="text-align: left" |New shield design specializing in solid round defense.
+|}
+===Introduced in Armored Core: Nine Breaker===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!Type!!Weight!!EN Drain!!Attack Power!!Discharge Heat!!Attack Heat!!Range Rating!!Wave Rating!!Ammo Type!!Weapon Lock!!Ammo!!Range!!Maximum Lock!!Firing Interval!!Ammo Price!!Usage Drain!!Mag Capacity!!Mag Reload!!Def Shell!!Def Energy!!Shield Coverage!!Heat Insulation!!Unlock!! Notes |-
+! [[WH08RS-FENRIR]]
+| Mirage||-||EN Sniper Rifle||1380||118||2400||-||13100||-||-||Energy||Narrow & Deep||10||1190||1||255||0c||5166||-||-||-||-||-||-||Get to rank 20 in the Arena (NB)|| style="text-align: left" |Energy-based sniper rifle with devastating single-shot power.
+|-
+! [[WH10M-SILKY]]
+| Mirage||Price||EN Machinegun||590||446||168||-||1303||-||-||Energy||Wide & Shallow||180||290||1||10||0c||1849||-||-||-||-||-||-||Clear entire defense trainer (NB)|| style="text-align: left" |Machine gun designed to fire high charged energy rounds.
+|-
+! [[CR-WH01HP]]
+| Manufacturer||Price||Handgun||142||89||360||-||2710||-||-||Solid||Wide & Shallow||42||2710||1||14||40c||0||8||80||-||-||-||-||Clear entire Special trainer (NB)|| style="text-align: left" |Storable handgun with firepower equivalent to that of a rifle.
+|-
+! [[WH09H-WRAITH]]
+| Manufacturer||Price||Handgun||139||99||210||-||2980||-||-||Solid||Wide & Shallow||64||215||1||12||40c||0||8||60||-||-||-||-||Get to rank 10 in the Arena (NB)|| style="text-align: left" |Storage capable handgun with enhanced firing speed.
+|-
+! [[CR-WH05BP]]
+| Manufacturer||Price||Bazooka||1210||64||1630||-||7230||-||-||Solid||Special||40||480||1||72||275c||0||-||-||-||-||-||-||Get 120 Gold ranks (NB)|| style="text-align: left" |Part's weight is offset by ammo capacity and damage potential.
+|-
+! [[CR-WH01SP]]
+| Manufacturer||Price||Shotgun||691||92||260||-||720||-||-||Solid||Standard||56||360||1||36||98c||0||2||126||-||-||-||-||Get 60 gold ranks (NB)|| style="text-align: left" |Close-range shotgun equipped with heavy alloy rounds.
+|-
+! [[WH11PU-PERYTON]]
+| Manufacturer||Price||Pulse Rifle||144||231||399||-||3021||-||-||Energy||Special||30||310||1||18||0c||820||-||-||-||-||-||-||Get 75 Gold ranks (NB)|| style="text-align: left" |Weapon's small size belies its close-in damage potential.
+|-
+! [[WH12PL-ETTIN]]
+| Manufacturer||Price||Dual Plasma Rifle||2532||912||2140||-||6310||-||-||Energy||Special||14||460||1||116||0c||7690||-||-||-||-||-||-||Get 15 Gold Ranks (NB)|| style="text-align: left" |Releases a dual burst of high-energy plasma when fired.
+|}
+===Introduced in Armored Core: Last Raven===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!Type!!Weight!!EN Drain!!Attack Power!!Discharge Heat!!Attack Heat!!Range Rating!!Wave Rating!!Ammo Type!!Weapon Lock!!Ammo!!Range!!Maximum Lock!!Firing Interval!!Ammo Price!!Usage Drain!!Mag Capacity!!Mag Reload!!Def Shell!!Def Energy!!Shield Coverage!!Heat Insulation!!Unlock!!Notes
+|-
+! [[CR-WL06LB4]]
+| Crest||96000c||Laser Blade||451||201||1597||1235||5033||12||-||-||-||-||-||-||-||-||7093||-||-||-||-||-||-||Reward from [[Shutdown Internecine]]|| style="text-align: left" |High-powered blade with a long laser housing for improved range.
+|-
+! [[YWL16LB-ELF3]]
+| Mirage||88000c||Laser Blade||296||105||1652||1203||8910||6||-||-||-||-||-||-||-||-||6011||-||-||-||-||-||-||Reward from  [[Intercept Enemy AC]]|| style="text-align: left" |Laser blade designed to emphasize attack power and heat.
+|-
+! [[CR-YWH05R3]]
+| Crest||42000c||Rifle||403||139||280||-||1420||-||-||Solid||Standard||100||480||1||25||22c||0||-||-||-||-||-||-||Reward from [[Acquire The Commodity]]|| style="text-align: left" |Test model addressing firing 
+|-
+! [[YWH13M-NIX]]
+| Mirage||56000c||Machine Gun||410||109||97||-||303||-||-||Solid||Wide & Shallow||360||330||1||2||24c||0||24||110||-||-||-||-||Reward from [[Attack The Advancing Force[[|| style="text-align: left" |Machine gun designed to inflict impressive close-range damage.
+|-
+! [[YWH14PU-ROC4]]
+| Mirage||80000c||Pulse Rifle||348||489||550||-||4000||-||-||Energy||Special||96||250||1||32||0c||989||-||-||-||-||-||-||Defeat Certainty/Grim Beast (Rank 6) in the Arena|| style="text-align: left" |Pulse rifle model with exceptional ammunition storage.
+|-
+! [[FUTEN]]
+| Kisaragi||69000c||Energy Shield||522||139||-||-||-||-||-||-||-||-||-||-||-||-||1022||-||-||96||501||82||4322||Hidden in [[Shutdown Energy Plant]]|| style="text-align: left" |Energy shield with superb DEF ratings, but heavy equip weight.
+|}
+=== Introduced in Armored Core: Last Raven Portable ===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!Type!!Weight!!EN Drain!!Attack Power!!Discharge Heat!!Attack Heat!!Range Rating!!Wave Rating!!Ammo Type!!Weapon Lock!!Ammo!!Range!!Maximum Lock!!Firing Interval!!Ammo Price!!Usage Drain!!Mag Capacity!!Mag Reload!!Def Shell!!Def Energy!!Shield Coverage!!Heat Insulation!!Unlock!!Notes
+|-
+! [[ISHANATEN]]
+| Kisaragi||-||Shield||428||26||-||-||-||-||-||-||-||-||-||-||-||-||-||-||-||36||206||86||1086||Defeat [[Isami Jash]] in the [[EX Arena]]|| style="text-align: left" |High performance prototype shield still under development.
+|}
+
+== Optional Parts ==
+=== Introduced in Armored Core: Nexus ===
+{| class="wikitable sortable" style="text-align: center; font-size: 75%; width: auto; table-layout: fixed;"
+|-
+! style="width: 5em" |Part ID!!Manufacturer!!Price!!Type!!Required Slots!!Unlock!!Notes
+|-
+! [[O01-AMINO]]
+| Mirage||25000c||Solid Screen||2||Shop|| style="text-align: left" |Reduces damage from solid shell ammunition. Uses two slots.
+|-
+! [[CR-O69ES]]
+| Crest||28000c||Energy Screen||1||Shop|| style="text-align: left" |Reduces damage from energy ammunition. Uses one slot.
+|-
+! [[CR-O69SS]]
+| Crest||40000c||Stabilizer||3||Shop|| style="text-align: left" |Improves stability when taking fire. Use three slots.
+|-
+! [[CR-O71EC]]
+| Crest||30000c||Condenser Capacitor||4||Shop|| style="text-align: left" |Increases generator's condenser capacity. User four slots.
+|-
+! [[KISSYOH]]
+| Kisaragi||20000c||Missile Jammer||2||Shop|| style="text-align: left" |Emits lock-on cancellation pulses. Uses two slots.
+|-
+! [[CR-O75LA]]
+| Crest||26000c||Missile Lock-on Reducer||2||Shop|| style="text-align: left" |Reduces missile lock-on time. User two slots.
+|-
+! [[CR-O79L+]]
+| Crest||27000c||Lock Box Enlarger||3||Shop|| style="text-align: left" |Increase the size of the sight lock. Uses three slots.
+|-
+! [[O02-ORGANELLE]]
+| Mirage||31000c||Brake Increaser||2||Shop|| style="text-align: left" |Improves leg part braking ability. Uses two slots.
+|-
+! [[O03-CODON]]
+| Mirage||41000c||Turn Increaser||4||Hidden in [[Special Forces Removal]](NX)/Complete the No Radar trainer(NB)|| style="text-align: left" |Improves leg part turning ability. Uses four slots.
+|-
+! [[CR-O83ES+]]
+| Crest||38000c||Shield Enlarger||1||Rank 20 in the arena(NX)/Shop|| style="text-align: left" |Improves energy shield coverage range. Uses one slot.
+|-
+! [[O07-PRIMER]]
+| Mirage||74000c||Blade Booster||3||Shop|| style="text-align: left" |Increase laser blade attack power. Uses three slots.
+|-
+! [[O04-GOLGI]]
+| Mirage||45000c||Energy Booster||3||Shop|| style="text-align: left" |Increases energy weapon attack power. Uses three slots.
+|-
+! [[O05-HISTON]]
+| Mirage||52000c||Energy Speeder||2||Shop|| style="text-align: left" |Improves energy weapon reload time. Uses two slots.
+|-
+! [[O06-PHAGE]]
+| Mirage||45000c||Energy Reducer||4||Shop|| style="text-align: left" |Reduces energy weapon firing consumption. Uses four slots.
+|-
+! [[O08-RIBOSE]]
+| Mirage||15000c||Radar Missile Adder||1||Shop|| style="text-align: left" |Adds missile display function to the radar. Uses one slot.
+|-
+! [[CR-O86R+]]
+| Crest||32000c||Radar Increaser||1||Shop|| style="text-align: left" |Improves radar range. Uses one slot.
+|-
+! [[MARISHI]]
+| Kisaragi||30000c||Radiator Booster||2||Shop|| style="text-align: left" |Improves cooling performance. Uses two slots.
+|-
+! [[CR-O94ESS]]
+| Crest||25000c||Shield Booster||1||Shop|| style="text-align: left" |Reduces energy shield energy consumption. Uses 1 slot.
+|-
+! [[KANGI]]
+| Kisaragi||60000c||ECM Counter||2||Reward from [[Defeat Assault Force]](NX)/Complete Attack + Defense trainer(NB)|| style="text-align: left" |Improves VS ECM perfomance. Uses two slots.
+|}
+[[Category:Armored Core: Nexus]]
+[[Category:Armored Core: Nine Breaker]]
+[[Category:Armored Core: Last Raven]]
